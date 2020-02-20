@@ -1,0 +1,37 @@
+
+Software Engineer - Frontend
+at Highfive (View all jobs)
+Redwood City
+
+Highfive makes meetings better with video conferencing that’s insanely easy to use.  Founded by two former Googlers and backed by the likes of Andreessen Horowitz, Google Ventures, and General Catalyst, Highfive developed an all-in-one hardware & software solution to fix the age-old problem of why the first 15 minutes of every meeting are a complete waste of time.  We’ve got a strong team, a huge addressable market, and a differentiated product. All we need is you!
+
+Highfive is changing the way people communicate at work for thousands of customers and hundreds of thousands more potential customers.  We believe in the marriage of top-shelf engineering with world-class product design.  We need skilled frontend engineers to help us bring delight to enterprise use cases through beautiful user experience, while maintaining a platform that adapts and scales with our growing engineering team.
+
+Highfive runs on desktops in a unique combination of pure-browser and native-app JS technologies.  As a rich communication app, the Highfive desktop experience relies on various modern and emerging browser technologies including WebRTC, native notifications, and Bluetooth.  The job involves a lot more than the typical single-page-app request/response concepts found elsewhere.  If you are someone who is passionate about frontend, and loves pushing the boundaries of what is possible across the browser and desktop apps, come talk to us!
+
+What you'll be doing:
+
+    With a cross-functional squad of other engineers and designers, own full software development lifecycle for user-facing features.  This includes working with backend experts to design and implement the most effective client-server protocols and overall system design.
+    With your fellow members of the frontend guild, share ownership of all aspects of production of the Highfive desktop app: feature requirements gathering, design, architecture, implementation, debugging, testability, and publishing.
+    Constantly pay down technical debt and improve software development processes.
+    Work with management to define and refine the frontend technology roadmap.
+    Evangelize and educate best practices for maintainable, beautiful code among the rest of the software organization.
+
+Qualifications:
+
+    At least 3 years experience in frontend or full-stack software development
+    Mastery of rich Javascript application programming
+    Experience with at least some of the following: AngularJS or equivalent frameworks, Electron or nw.js, WebRTC, WebGL
+    Conviction in the notion that frontend code is a first-class citizen in any good software system: that it have elegant architecture, be comprised of clean and maintainable code, and be accompanied by useful tests.
+    A proven eye for visual aesthetics and good design
+    A reputation of being among the top engineers in every team you've worked on
+    The ability to work independently, anticipate problems and solve them without any guidance
+
+Additional awesomeness:
+
+    Expertise with browser or rendering engine internals
+    Hands-on practical experience with graphics programming
+    Experience with other technologies in use at Highfive: C/C++, Java, Scala, Objective-C, and Python
+    End-to-end product design experience, including user testing, A/B testing, and iteration following user feedback
+
+Come join our award winning team!

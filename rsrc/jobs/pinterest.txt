@@ -1,0 +1,20 @@
+ Fullstack Engineer, Growth Engineering
+
+San Francisco | California | United States
+
+The growth team is dedicated to making Pinterest the best destination for billions of people around the world to discover and collect inspiration everyday.  We're looking for a strong candidate to work across all parts of our core product to identify opportunities to improve the Pinner experience and build new features and systems to drive user growth and engagement. You'll be deeply involved in all aspects of product development across our website, native apps, and backend.
+
+What you’ll do:
+
+    Design and implement user experiences and systems which add value to Pinners and drives impact on key business metrics.
+    Build and launch A/B experiments to validate hypotheses and measure the impact.
+    Derive insights from data analytics and user research reports and brainstorm ideas with the team.
+    Work with designers and product managers to prioritize features and ship to production.
+
+What we’re looking for:
+
+    3+ years of full-stack software engineering experience developing user-facing features and systems.
+    Proficiency in a dynamic programming language such as Javascript or Python
+    Proficiency in writing high quality, scalable, reliable and maintainable code that may be used by many other engineers.
+    Passions for working in a bottoms-up culture to bring your own ideas to life on Pinterest.
+    Enthusiasm for collaborating with team members and cross-functional partners.

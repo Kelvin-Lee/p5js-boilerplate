@@ -1,0 +1,50 @@
+Entry-Level Software Development Engineer (Jan. start date)
+Seagate Technology
+-
+Longmont, CO 80503
+
+About the Team:
+
+The Seagate Research group is responsible for analyzing how data is generated, transported, and stored from creation to archive. By gaining deep insight into all aspects of data from creation through analysis and storage, the team identifies ways to improve Seagate's products as well as identifying new market opportunities.
+
+About the role / A Day in the Life:
+
+    Design, develop, and troubleshoot software solutions
+    Work collaboratively in a small team to create prototype designs for new and emerging markets.
+    Opportunity to lead in JavaScript design
+    Use JaveScript to create a front-end web development
+    Participate in creative problem solving
+    Document software solutions for internal use 
+
+About you:
+
+    Excellent communications skills
+    Team oriented individual, eager to learn and work with experienced mentors.
+    Team oriented individual, eager to learn and work with experienced mentors 
+
+Your experience includes:
+
+    BS in computer science or related major
+    Experience with front-end web development using JavaScript (and HTML/CSS)
+    Knowledge in various frameworks (required JS framework: Bootstrap)
+    Data structures and algorithms 
+
+You might also have:
+
+    Linux, Git
+    Node.js, Javascript, Python
+    Machine Learning / Machine Vision
+
+
+About our Location:
+Walk into work every day with an exceptional view of the Rocky Mountains. The Seagate campus is located in beautiful Longmont, Colorado. Play ping-pong or outdoor volleyball during lunch. Take one of our ten workout classes at our on-site fitness center. The Longmont office and product design center offers an on-site cafeteria and barista. Less than an hour from Denver and 15 minutes to Boulder, our community has all of the exciting year-round outdoor activities of the gorgeous Rockies.
+
+Location : Longmont, CO
+
+Our Longmont product-design campus is nestled against the foothills with exceptional views of the Rocky Mountains. Here at work, you can grab breakfast and lunch in the on-site cafeteria or get an afternoon espresso, prepared by a professional barista. Our 1,500+ employees enjoy an active on-site experience from sporting activities (get in a few laps at lunch on our 1-mile walking path around campus, play ping-pong or volleyball, or stop in our 24- hour fitness center for a group or individual workout) to community service and many employee resource groups including Pride!, Women’s Leadership Network and a Young Professionals Network.
+
+Visa sponsorship is not available for this position
+
+#Entrylevel
+
+Job Family: Engineering Professional

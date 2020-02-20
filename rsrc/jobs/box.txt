@@ -1,0 +1,48 @@
+Fullstack Engineer, Identity and Security Foundation
+at Box
+Redwood City, CA
+WHAT IS BOX?
+ 
+Box is the market leader for Cloud Content Management. Our mission is to power how the world works together. Box is partnering with enterprise organizations to accelerate their digital transformation by creating a single platform for secure content management, collaboration and workflow. We have an amazing opportunity to further establish ourselves as leaders in the space, and we need strong advocates to help us achieve that goal. 
+ 
+By joining Box, you will have the unique opportunity to help capture a majority of this developing market and define what content management looks like for the digital enterprise. Today, Box powers over 97,000 businesses, including 70% of the Fortune 500 who trust Box to manage their content in the cloud. 
+ 
+ 
+WHY BOX NEEDS YOU 
+ 
+The Identity & Security Foundation team delivers one of Box's key market differentiators by building state of the art security features and infrastructure. Whether it's building an authentication system that can support billions of requests per day, a brand new capability to ensure data access control and visibility, or rethinking how passwords work in a multi-device future, our team enables Box's rapid growth. The modern, secure and reliable features, services and frameworks we build are key to achieving Box’s lofty goals.
+ 
+ 
+WHAT YOU'LL DO
+
+    You'll develop high-quality code across all levels of the stack - UI, backend-for-frontends, microservices. 
+    You'll work with modern technologies and frameworks such as React, Node.js, Java, Docker and Kubernetes
+    You'll model solid engineering practices around architectural design, testability, scalability and maintainability
+    You'll work with Product Managers and UI designers to realize brand new security capabilities that set Box apart from the rest.
+    You'll collaborate with other engineers on the team to foster solid engineering principles and represent our engineering values 
+
+ 
+ 
+WHO YOU ARE
+
+    You have 2+ years of professional software development experience
+    You have a BS in Computer Science or a related engineering field
+    You possess knowledge of algorithms, data structures, and software design principles.
+    You have a working knowledge of the front-end technology stack (HTML/CSS/Javascript), as well as at least one server side language such as Java, PHP, Node, C#, Python, etc.
+    You understand the importance of balancing security, performance and usability.
+    Preferred Skills
+        You have a working knowledge of at least one Javascript UI library such as React, AngularJS, Meteor, etc.
+        Virtualization/container abstractions and orchestration (Kubernetes, Docker, etc.) 
+        Experience in a fast paced, highly collaborative environment.
+
+ 
+Benefits
+
+    Visit this webpage to check out all of our exciting benefits: https://join.collectivehealth.com/box
+
+ 
+Equal Opportunity
+ 
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ 
+For details on how we protect your information when you apply, please see our Personnel Privacy Notice.

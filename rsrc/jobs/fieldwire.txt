@@ -1,0 +1,65 @@
+Frontend Engineer
+APPLY NOW
+at Fieldwire(View all jobs)
+San Francisco, CA (HQ)
+
+Who we are looking for?
+
+Fieldwire is looking for a Frontend engineer to join our team of talented product engineers. As a Frontend engineer, you will build the core features and experiences to support a rapidly growing company and user base. Our applications are built using modern and reliable tools, including Javascript, Angular, and Bootstrap and are architected for simplicity, reliability and performance. 
+
+The Frontend team at Fieldwire builds and maintains the web app used by our customers. Our engineering teams are multi-functional, co-located with product and design. Fieldwire’s apps are mission critical for the construction teams that use Fieldwire everyday to save time and money on the jobsite. 
+
+Desired Skills & Experience 
+
+    Bachelor’s or Master’s degree in CS or equivalent work experience
+    3+ years client-side JavaScript experience
+    Experience with modern browser technology
+    Experience building responsive layouts using HTML and CSS
+    Experience writing clean, well-tested, and modular code
+    Strong UX and design sense
+
+Nice to haves:
+
+    Experience with AngularJS or similar framework
+    Experience with Bootstrap and CSS preprocessors like LESS/SASS
+    Experience working with complex and data-intensive single page apps
+
+What you’ll be doing?
+
+Our Frontend Engineers are responsible for developing the highest quality customer facing products. As a member of the Frontend team, you will work closely with technical and product leadership to build powerful features for the Fieldwire platform.
+
+Here is a sample of the kind of challenges you will solve:
+
+    Building the fastest web plan viewer and editor
+    Keeping our app up to date with the latest and greatest frameworks and tools
+    Intelligently loading and displaying complex data in real time
+
+Responsibilities:
+
+    Design, build, and maintain our customer facing and internal web apps
+    Debug production issues working closely with our support teams
+    Improve engineering standards, tooling, and processes
+
+Why Fieldwire?
+
+Fieldwire is a construction field management software, used on over 450,000+ projects worldwide. We’re obsessed with improving the way teams work together. We’re building the Field Management Platform for construction teams — providing operational excellence for one of the world’s largest global industries -- $10 Trillion/year. We’re delivering a superior, easy-to-use product that’s driven by the voice of our customers.
+
+Fieldwire’s main focuses are issue-tracking, task management, plan viewing, and team communication -- all accessible in one place. The Fieldwire mobile app has a five-star rating based off of hundreds of customer reviews. Fieldwire is venture backed by the top investors in the industry and has already transformed the way thousands of companies worldwide are working together.
+
+Benefits:
+
+    Competitive Salary
+    Employee Stock Options
+    Medical/Dental/Vision Insurance
+    401k
+    Generous PTO
+    Commuter Benefits
+    Catered lunches
+
+Where is the job located?
+
+This role is based in beautiful San Francisco, CA. Our office is centrally located right off of Union Square. Easily accessible by all forms of public transportation.
+
+--
+
+Fieldwire is proud to be an Equal Opportunity Employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status or any other characteristic protected by law.

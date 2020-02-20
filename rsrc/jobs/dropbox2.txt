@@ -1,0 +1,44 @@
+
+Front End Web Developer
+Mountain View, CA
+Company Description
+
+Dropbox is the world’s first smart workspace that helps people and teams focus on the work that matters. With more than 600 million registered users across 180 countries, we’re on a mission to design a more enlightened way of working. Dropbox is headquartered in San Francisco, CA, and has 12 offices around the world.
+Team Description
+
+ITS delivers business technology strategy and solutions to our Dropbox business partners so they can work confidently, move fast, and scale effortlessly. We aspire to be the connective tissue to the core business of Dropbox as a partner of choice that accelerates and simplifies outcomes. We source, build and implement the right technology solution, and fit it into exactly the right place so that everything meets the high bar that Dropboxers expect.
+Role Description
+We are looking for a Front End Web Developer with experience working on portal and other marketing technology implementations, with both functional and technical expertise. Functional end will include working with the stakeholders, gathering requirements and understanding the requirements from a functional perspective. Technical end you will be responsible for shipping delightful experiences to customers include understanding configurations, working on project delivery, developing enhancements and supporting the system from a technical perspective.
+Responsibilities
+The Web Developer will be responsible for designing, coding and modifying websites, from layout to function and according to a clients’ specifications. The right candidate will strive to create visually appealing sites that feature user-friendly design and clear navigation. The role will also be responsible for learning new technology as we acquire/build new applications in marketing landscape.
+
+    Build easy-to-use, high-performance websites working with website marketers and other groups
+    Participate in the full development lifecycle, including estimation, design, development, testing, and deployment
+    Review and respond to operational issues, escalating as necessary
+    Support development of other developers through mentoring, code review, and knowledge sharing
+
+Requirements
+
+    Expert in web markup, including HTML5, CSS3 and Javascript/jQuery
+    Extensive experience of client-side scripting and javascript frameworks such as jquery, React and Angular JS
+    Proficient understanding of javascript pre-processing and packaging frameworks such as babel and webpack
+    Experience in responsive web design and development
+    Knowledge of design patterns to create simple and reusable components for complex UIs
+    Excellent oral, written, and interpersonal communication skills
+    Demonstrated critical thinking skills, decision-making, and problem solving skills
+    Working experience with AEM would be a plus
+    Knowledge of digital marketing features like Analytics and Personalization would be a plus
+
+Benefits and Perks
+
+    100% company paid individual medical, dental, & vision insurance coverage
+    401k + company match
+    Market competitive total compensation package
+    Free Dropbox space for your friends and family
+    Wellness Reimbursement
+    Generous vacation policy
+    10 company paid holidays
+    Volunteer time off
+    Company sponsored tech talks (technology and other relevant professional topics)
+
+Dropbox is an equal opportunity employer. We are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. A big part of that effort is our support for members and allies of internal groups like Asians at Dropbox, BlackDropboxers, Latinx, Pridebox (LGBTQ), Vets at Dropbox, Women at Dropbox, ATX Diversity (based in Austin, Texas) and the Dropbox Empowerment Network (based in Dublin, Ireland). 

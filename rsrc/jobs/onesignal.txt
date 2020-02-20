@@ -1,0 +1,21 @@
+We’re seeking an experienced front-end developer to lead the development of improvements to OneSignal’s dashboard.
+
+Every day over 10,000 clients visit our website and dashboard and thousands more use our API. Our clients love what we’ve built so far and we can’t wait to make it even better.
+
+Your responsibilities will include working closely with a product designer and our clients to help build new features and improve our existing ones. You will primarily program in Typescript, and React.
+
+Skills And Experience
+
+    Enjoy rapid iteration. We ship code multiple times per day
+    Fluent in Javascript, HTML, and CSS
+    Know React, or a similar framework
+    Have worked in an environment where developers have written tests and shared ownership of code
+
+Preferred Skills And Experience
+
+    Experience with Webpack, Redux, CSS grid
+    Know Ruby on Rails or similar MVC framework
+    Experience building and integrating REST API's
+    Have experience writing queries with MySQL or PostgreSQL
+
+In keeping with our beliefs and goals, no employee or applicant will face discrimination/harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status. Above and beyond discrimination/harassment based on 'protected categories,' we also strive to prevent other, subtler forms of inappropriate behavior (e.g., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at OneSignal.

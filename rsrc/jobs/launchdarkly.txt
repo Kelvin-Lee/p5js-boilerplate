@@ -1,0 +1,39 @@
+Software Engineer, Frontend
+Oakland, CA
+Engineering
+Full-time
+We're looking for a creative, product-focused frontend engineer to help us implement the user interface of our web app. You'll use modern tools like ES6, React, and Webpack to deliver performant, modular, and maintainable frontend code. We're looking for someone who thrives on putting new features in front of customers and takes pride in the quality of their work.
+
+Our platform serves over twenty billion feature flags daily. The core technologies we use daily include Golang, React, Redux, MongoDB, ElasticSearch, Redis, and NATS.
+
+LaunchDarkly is a rapidly growing software company with a strong mission and vision carried out by a talented and diverse team of employees. Our goal is to help teams build better software, faster. You'll join a small team from companies like Atlassian, Intercom, and GitHub, and you'll have an immediate impact with our product and customers.
+What you'll do:
+
+        Collaborate with backend engineers to implement a modern, API-driven UI
+        Monitor and improve client-side performance
+        Write unit and integration tests as necessary
+        Actively participate in design and code reviews
+        Partner with the design team to craft new features and refine existing ones
+        Improve engineering standards, tooling, and processes
+
+Who you are:
+
+        Comfortable coding in JavaScript using a modern framework (React, Angular, etc.)
+        Experience building complex layouts with CSS and HTML
+        Experience with modern frontend technologies, including CSS pre/post-processors, build systems, module loaders, and dependency management
+        Strong UX and design sensibilities, and a desire to sweat the small stuff
+        Strong communication skills, a positive attitude, and empathy
+        You write code that can be easily understood by others, with an eye towards maintainability
+        You have a high bar for quality of code and quality of user experience
+
+You may also know (bonus skills):
+
+        Experience using a Flux implementation
+
+About LaunchDarkly:
+
+LaunchDarkly is a Feature Management Platform that serves over 100 billion feature flags daily to help software teams build better software, faster. Feature flagging is an industry standard methodology of wrapping a new or risky section of code or infrastructure change with a flag. Each flag can easily be turned off independent of code deployment (aka ”dark launching”). LaunchDarkly has SDKs for all major web and mobile platforms. Our team culture is dynamic, friendly, and supportive. 
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, or disability status.
+
+We've partnered with KeyValues to help demonstrate the amazing culture we've built here at LaunchDarkly, find more info at https://www.keyvalues.com/launchdarkly

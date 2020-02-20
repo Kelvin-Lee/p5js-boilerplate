@@ -1,0 +1,58 @@
+Frontend Engineer
+San Francisco, CA
+R&D – Engineering
+Full-time
+About the Role:
+
+We’re looking for Frontend Engineers to help us transform the construction industry. Our customers are building some of the most amazing construction projects on the planet, and PlanGrid allows them to be radically more efficient.
+
+About you:
+
+We realize that few people will have experiences that run the gamut of what this role requires day-to-day, so we’re looking for people with a track record of success of providing insanely great customer experiences. We value diversity and recognize that smart people from a wide range of backgrounds are the key ingredient to building the best products.
+
+PlanGrid is committed to support you to do great work, use technologies you like, alongside peers you respect. You’ll do this on a product that delights users, has made money from the day it launched, and grown steadily ever since. If that sounds like the environment for you, we’d love for you to build and grow with us.
+
+We are open to remote engineers.
+In order to help meet customer needs, candidates must:
+
+        Be proficient in modern web technologies & Frameworks (ES6, CSS3, React/Redux)
+        Have a strong grasp of Computer Science Fundamentals (Data Structures, Theory Basics, etc.)
+        Comfort using modern web testing frameworks (We use Jest and Cypress)
+
+Ideally, candidates will also have experience:
+
+        Refactoring and re-architecting to support new models and paradigms
+        Using modern build systems (Grunt, WebPack etc) 
+        Writing highly scalable, reliable front-end web applications
+
+Other things we value:
+
+        A preference for quality over quantity: You understand the technology, build the appropriate solution to get the job done, and appreciate a team that holds each other to a high standard.
+        Ownership and pride over everything you ship: You'd never call code "released" until you’re confident it provides real value. 
+        Deep customer empathy: You recognize the value in solving real customer problems and strive to use the best conceptual models to frame the problem.
+        A love of building elegant, maintainable code: Abstracting and refactoring should be a passion, not a chore.
+        Team players: You recognize that the ‘whole is greater than the sum of its parts,’ appreciate collaboration, and do your part to make the larger team win.
+        Pragmatism: You consider the many tradeoffs (business, technical, UX, speed, accuracy, complexity) inherent in every decision. 
+
+Perks
+
+        Located in San Francisco’s Mission District just one block from BART, among local shops, bars, and restaurants
+        Medical, dental, and vision coverage for full-time employees and dependents
+        401k + Company matching
+        Employee Stock Purchase Plan (ESPP)
+        $500 annual wellness reimbursement
+        Volunteering on company time + employee donation matching
+        Pre-tax commuter benefits 
+        Dog-friendly office
+        Catered lunches 3x/week
+        We provide paid parental leave for both parents
+        Construction site tours of the biggest projects in San Francisco using PlanGrid
+
+
+
+
+PlanGrid, an Autodesk company, builds simple, beautiful software that construction teams love to use. As part of Autodesk Construction Solutions (ACS), whose mission is to seamlessly connect the office, trailer and the field across the entire construction project lifecycle, PlanGrid’s mobile-first solutions empower general contractors, subcontractors, owners and architects to provide fast, accurate information to the field. With unparalleled adoption by field workers, PlanGrid is used on projects as the single source of truth for all construction data — including drawings, photos, and other critical documents. As a result, critical workflows are streamlined, efficiency is improved and field teams can take on more work and get more done. PlanGrid’s software and other Autodesk Construction Solutions products enable a complete data set to move seamlessly through each phase of a building’s lifecycle — from design and preconstruction to construction, turnover, and operations. PlanGrid is used on more 1.5 million construction projects in 100+ countries.  
+
+Join us as PlanGrid and ACS advance Autodesk’s leadership in construction.
+
+As part of GDPR compliance procedures, we have posted our Recruiting Privacy Notice on our website. Please also note that the advertised position is an opportunity with Autodesk, Inc. (https://www.autodesk.com/), as Autodesk recently acquired PlanGrid. Processing of your personal information as part of the job application process, and as part of Autodesk employment should a candidate be hired, will be handled by Autodesk pursuant to Autodesk’s Candidate Privacy Statement, available at: https://damassets.autodesk.net/content/dam/autodesk/www/content/careers/autodesk_candidate_privacy_statement.pdf.

@@ -1,0 +1,42 @@
+Senior Front-end Software Engineer
+Mountain View
+Engineering – Development
+Full time
+At Credit Sesame, we believe every person should feel creditworthy. That’s why empowering members to own their credit is our number one mission. Since 2009, we’ve been helping millions of members improve their credit scores, lower the cost of their credit, and save money. When you join Credit Sesame, you become part of a team devoted to helping people take charge of their credit so they can live better lives.
+
+Reporting to our Lead Engineer, we are looking for a Senior Front-end Engineer to help build our next-generation web client and make it come alive for our members. Have you helped build a React-based high-traffic web application? Are you comfortable with both design and coding? Do you enjoy working with product managers and designers? Are you passionate about bringing together design with technology to create user experiences that delight our users? If so, this role is for you.
+You'll...
+
+        Build and deliver consumer-facing product features;
+        work with product managers and designers to launch solutions for our users;
+        implement and ensure that prototypes are optimized into production code;
+        collaborate with other technology teams and architects to create creative solutions to complex problems;
+        foster a culture of ownership, measurement, and testing.
+
+You’re a great fit for our team because...
+
+        you have strong experience with CSS/HTML skills;
+        you have experience working with SASS; 
+        you are in the mid-later stages of your career and looking to expand your responsibilities and technical knowledge; 
+        you have experience building reusable UI component library; 
+        you have worked with designers to transform their vision to user interface in a large-scale web application. 
+        you have worked with JavaScript and React (preferred);
+        you iterate quickly on product changes through experience with Agile/Scrum framework;
+        you enjoy developing user stories.
+
+You’ll love it here because...
+
+        you‘ll have huge potential to grow with a company that’s a category leader;
+        you’ll have equity in a pre-IPO company backed by top VCs;
+        we offer comprehensive medical, dental, and vision insurance with many plan options;
+        we have in-house lunch catering five days a week;
+        you can stay on top of your fitness goals with our on-site fitness centers;
+        we offer monthly fitness, phone and internet reimbursement;
+        you can fuel up at our stocked kitchens with endless snacks and drinks;
+        we value EQ over IQ and prioritize work-life balance (read more about Credit Sesame’s Key Values here: https://www.keyvalues.com/credit-sesame)
+
+Office Location
+
+Our Mountain View office is located within walking distance of the Caltrain station and in the heart of downtown Mountain View with great cafes, restaurants, and shops.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.

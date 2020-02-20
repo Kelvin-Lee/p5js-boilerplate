@@ -1,0 +1,41 @@
+
+Front End Software Engineer
+San Francisco, CA
+Company Description
+
+Dropbox is the world’s first smart workspace that helps people and teams focus on the work that matters. With more than 600 million registered users across 180 countries, we’re on a mission to design a more enlightened way of working. Dropbox is headquartered in San Francisco, CA, and has 12 offices around the world.
+Team Description
+
+Our Engineering team is working to simplify the way people work together. They’re building a family of products that handle over a billion files a day for people around the world. With our broad mission and massive scale, there are countless opportunities to make an impact.
+Role Responsibilities 
+Dropbox is looking for front-end software engineers to come build the future of work collaboration. We are looking for people who share our passion and belief that the best technology is simple, beautiful, accessible and usable. Using modern front-end technology (e.g. TypeScript, React, Redux) we expect front-end engineers to fully represent users' needs through close partnership with product, design, and user research.
+You’ll be working on marquee projects like The New Dropbox, Document Previews and Dropbox Paper. As a front-end engineer you are expected to architect, developing and releasing user-facing features and ensure the quality of our product continues to serve the needs of our tens of millions of users. 
+Responsibilities
+
+    You will partner with product managers, designers, and analysts to deeply understand the needs of our users and build a product that serves those needs
+    You will take full ownership of engineering projects from design to implementation to deployment and maintenance
+    You will design and build software capable of reaching millions of daily users in Javascript and (sometimes) in HTML/CSS and Python
+    You will ensure that our development environment is best in class by delivering improvements to internal tooling and direct partnership with our product platform teams
+    You will work closely with customer support to respond quickly to issues for our users and solve those in a permanent and scalable way
+    You will improve the team and company – you will be an active participant in our culture (mentorship, interviewing, and new initiatives)
+
+Requirements
+
+    BS (or higher, e.g., MS, or PhD) in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience
+    2+ years of frontend software engineering and/or work related industry experience
+    Previous success developing and shipping a large-scale web application with a user-empathetic mindset
+    Skilled with web technologies including Javascript (framework of your choice), HTML, and CSS
+
+Benefits and Perks
+
+    100% company paid individual medical, dental, & vision insurance coverage
+    401k + company match
+    Market competitive total compensation package
+    Free Dropbox space for your friends and family
+    Wellness Reimbursement
+    Generous vacation policy
+    10 company paid holidays
+    Volunteer time off
+    Company sponsored tech talks (technology and other relevant professional topics)
+
+Dropbox is an equal opportunity employer. We are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. A big part of that effort is our support for members and allies of internal groups like Asians at Dropbox, BlackDropboxers, Latinx, Pridebox (LGBTQ), Vets at Dropbox, Women at Dropbox, ATX Diversity (based in Austin, Texas) and the Dropbox Empowerment Network (based in Dublin, Ireland). 

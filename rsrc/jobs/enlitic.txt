@@ -1,0 +1,30 @@
+Senior Software Engineer, Frontend
+San Francisco
+Research & Development
+Full-time
+Enlitic is on the verge of transforming patient care by bridging human and artificial intelligence to identify medical issues earlier and more accurately. We were founded in San Francisco in 2014 and our team has since expanded to New York, Vancouver, Canada, and Melbourne, Australia. 
+
+We believe that our ground-breaking work will help save time, money, and most importantly, lives - a belief shared by our investors who have fueled our work with $55 million to date. We have also garnered the attention of CNN, The Wall Street Journal, The New York Times, Inc. and Fortune among other global media outlets, and we were named one of the smartest AI companies by MIT Tech Review.
+
+On our engineering team, you’ll get to implement and design new tools for both commercial products as well as internal tools to help automate, test and add new functionality to support the various engineering and deep learning team functions. The tools you build will help support the everyday flow of all things engineering and deep learning, you’ll get to build out deployment production infrastructure pipelines and tools.
+The exciting things you will get to do:
+
+        Build and extend product integration points for customer specific needs, as required. 
+        Create tools and solutions supporting internal operations and functions.
+        Help prototype new solutions with the rest of the engineering team to build out new products and services. 
+
+The experience and qualifications we hope you bring to the position:
+
+        Minimum Bachelor's Degree in a related field, or equivalent practical experience.
+        Proficient in React.js and Redux.
+        Experience deploying software tools and applications.
+        Ability to work effectively with a global team through virtual meetings.
+
+Major plus if you have this experience:
+
+        Working familiarity with RDBMs like Postgresql or SQLite.
+        Experience with Docker containers.
+        Experience with Flask.
+        Experience with AWS.
+
+We celebrate diversity at our company and are proud to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, gender identity, or disability status. We understand that to hire the best talent, we need to search the globe. We encourage our employees to be themselves and require tolerance and acceptance among our diverse talent.

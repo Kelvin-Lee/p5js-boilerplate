@@ -1,0 +1,32 @@
+Full Stack Web Developer
+Palo Alto, California
+Engineering
+Full-Time
+Nyansa is a fast-growing innovator of advanced IT infrastructure analytics software based in Palo Alto, California. Founded in September 2013 by technology professionals from MIT, Meraki, Aruba Networks and Google, Nyansa is credited with developing the first cloud sourced, vendor-agnostic network analytics and IoT security platform, called Voyance.
+
+
+We embrace simplicity and take following to heart on everything we do:
+"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction." - Einstein
+
+Nyansa is looking for a versatile front end developer to join the team that is building a new, vendor-agnostic IT network analytics service purpose built for CIOs, network operations and helpdesk personnel managing heterogeneous enterprise environments. Our product is focused on the end user experience by helping IT staff gain new insights into client access conditions, network service behavior and enterprise applications issues that impact user performance.
+
+The company is well funded and provides competitive compensation package, stock options, benefits, catered lunch, and a fun work environment.
+
+The company is head quartered in Palo Alto, CA. 
+
+Responsibilities: 
+•Design and develop webapp with enterprise-grade performance, scalability, and reliability. 
+•Take ownership and rapidly iterate while collaborating actively as part of a small, highly talented team.
+
+Requirements: 
+•Strong desire to work for an early stage startup and contribute at a high level 
+•Strong experience with at least one of server-side webapp frameworks:  RoR, Django, Node.js
+•Working experience with HTML5, CSS and at least one of the modern Javascript frameworks: Angular, React, Backbone 
+•Working knowledge of databases 
+•A good sense of aesthetics and usability 
+•B.S. or higher degree in Computer Science or equivalent
+
+Pluses: 
+•Angular, RoR, D3, Sass 
+•Ruby, Java, Scala
+•Experience with Cassandra, Elasticsearch, Mongo

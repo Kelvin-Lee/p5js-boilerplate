@@ -1,0 +1,43 @@
+Software Engineer, Front-End (Growth)
+at Grammarly (View all jobs)
+San Francisco
+The opportunity 
+
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. More than 20 million people around the world use our AI-powered writing assistant every day. All of this begins with our team collaborating in a values-driven and learning-oriented environment. 
+
+To achieve our ambitious goals, we’re looking for an exceptional, experienced Front-End Software Engineer to create, contribute to, and drive the Growth team’s front-end engineering work. This engineer will take ownership of Grammarly’s website as well as content infrastructure by designing, developing, debugging, troubleshooting, optimizing, and releasing front-end features based on business inputs. The person in this role will work very closely with the Product managers, UX Designers and Data Scientists to translate ideas that will drive Consumer and Business growth into high-quality code and beautiful UI. 
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. On the Growth team, we expect engineers to come up with their own experiment ideas by working closely and getting feedback from Product Managers and Data Scientists. We also rely on individual contributors to drive the technical roadmap around things like performance, security and design new systems. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+Your impact
+
+    Work on projects that directly impact key business metrics
+    Ship improvements and overhauls to our user acquisition funnel, onboarding process and lifecycle communication for Consumer and Business users.
+    Work within the browser extension codebase to help showcase Grammarly’s value and new features to our users
+    Improve web performance for Grammarly.com
+    Provide meaningful code reviews and feedback to other engineers on the team.
+    Mentor junior engineers and provide technical leadership when faced with challenging and/or ambiguous situations.
+    Recommend ways to improve building, testing, and deployment processes for the front-end stack. 
+
+We’re looking for someone who
+
+    Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+    Has at least 3 years of experience in Frontend development using modern frameworks (React, Angular, Vue etc)
+    Solid knowledge of Javascript and CSS fundamentals and standards
+    Able to work with back-end engineers to define API contracts
+    Can translate product specifications and designs into clean and performant code in a collaborative manner
+
+Bonus points for
+
+    Past experience running experiments or A/B tests to test product hypothesis. 
+    Worked on data pipelines analyzing user behavior to inform business decisions
+    Expertise in performance analysis and optimization of front-end applications
+
+Support for you, professionally and personally
+
+    Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+    A connected team: Grammarly builds products that help people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+    Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package that includes superior health care. We also offer ample and defined time off, catered lunches, gym and recreation stipends, admission discounts, and more.
+
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. Grammarly is an equal opportunity employer and participant in the U.S. Federal E-Verify program.

@@ -1,0 +1,31 @@
+Software Engineer, Front End
+San Francisco, CA
+Engineering – Software
+Full-time
+Forward is redesigning the way we deliver healthcare, using all the technologies healthcare has historically neglected. As an early member of our world class engineering team, you’ll have a key role in rebuilding our country’s most important and most broken industry from first principles.
+
+We were founded in January 2016 by former executives and engineering leaders from Google and Uber. We are funded by some of the world's best investors and entrepreneurs including Founder's Fund, Khosla Ventures, First Round Capital, Eric Schmidt (Google/Alphabet Chairman), Marc Benioff (Salesforce Founder), Joe Lonsdale (Palantir Founder), Joshua Kushner (Oscar co-Founder) and Garrett Camp (Uber co-Founder).
+
+You can read our story here and some recent press Forbes, TechCrunch, the New Yorker, and TIME.
+WHAT YOU'LL DO:
+
+        Own front-end development for customer-facing portions of our core product and marketing activities
+        Work across multiple teams, including growth marketing, medical and operations; utilize your background in A/B, user flow testing and managing dynamic content
+        You’ll expand to work with Forward’s design team, translating mocks to premium, responsive UI including performant animations across browsers and platforms
+        You’ll develop reusable libraries and components useful across all teams at Forward
+        Your work will directly contribute to saving and improving people’s lives. For real. :)
+
+YOU ARE:
+
+        B.A. or B.S. or equivalent experience in computer science, engineering, or another technical or design field
+        Proficient in HTML5 & CSS3, and Javascript (ES5/6) and how they work in the browser. 
+        Familiarity with one or more major frameworks preferred (React.js, Vue.js, Backbone.js, Angular, Ember, etc)
+        Previous UI/UX and rapid prototyping experience, as well as some formal training or professional experience in design/animation and a strong portfolio of good-looking, high-performance webpages.
+        Experience with and opinions about complex design systems. You’re familiar with a constellation of tools such as Sketch, Zeplin, and Photoshop.
+        Experience owning something end to end, with quick turnaround on a small team. Often this kind of expertise can be developed at a high-growth startup but other environments can be just as educational.
+
+WHY JOIN FORWARD?
+
+We don’t want to just move dollars around the healthcare industry - we want to rebuild it and fix it. All of it. You’d be a major part of the story behind one of the most ambitious startup attempts of the past decade and you’d work with a team of people who want to use their talents for good.
+
+We are an equal opportunity employer. In accordance with anti-discrimination law, it is the purpose of this policy to effectuate these principles and mandates. We prohibit discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. We conform to the spirit as well as to the letter of all applicable laws and regulations. Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, we will consider for employment qualified applicants with arrest and conviction records.

@@ -1,0 +1,34 @@
+Do you want to be part of an exciting company dedicated to solving the greatest challenge humanity faces? Then Impossible Foods is the place for you.
+
+Impossible Foods was founded in 2011 to create a truly sustainable global food system by inventing an efficient, sustainable way to transform plants into irresistibly delicious, nutritious food -- food that delivers all the pleasures and nutritional benefits consumers demand, without the destructive environmental impact. Our first product, the Impossible Burger, was introduced by top chefs to the world and is currently available at over 16,000 restaurants across the United States and abroad.
+
+The research and development team is composed of world class scientists who are dedicated to solving one of the most important threats to global ecological stability. We are developing the most advanced food technology platform in the world because our challenging goals and short timeline demand it. Software and data science play a key role in facilitating data management, visualization, and analysis for R&D. We have embraced web technologies, cloud, and agile development. We are a small team, we build maintainable apps that fulfill a variety of needs for the R&D team, and we assist and educate in order to empower the broader team as well.
+
+To those ends we are looking for a full stack web developer to help us design, build, and deploy modern web applications. You will make core design decisions and influence how software gets done organization-wide. You will have an open mind and entrepreneurial spirit to get projects done in the most expedient manner, whether that means coding it up ourselves or outsourcing, and you will continually find new opportunities to make an impact within the company.
+
+You Will
+
+        Design and maintain web-based applications and databases to support scientific exploration and product development
+        Translate research team needs into good software design
+        Work across the entire software development lifecycle, from determining the needs of Impossible Foods scientists, all the way through maintenance and bug fixing
+        Manage hosting applications on cloud services
+        Submit PRs against existing feature requests and bugs
+        Contribute code, design ideas, and architecture solutions as part of a small Agile development team
+        Collaborate with scientists, business managers, and other developers to achieve goals
+        Enhance and support a culture of innovation, responsibility, hard work, and fun
+
+You Have
+
+        B.S. in Computer Science or related experience
+        3+ years software development experience
+        Strong Python and JavaScript skills
+        Experience with web frameworks
+        Strong communication skills, preferably with experience in dealing directly with users and/or stakeholders
+        Self-motivated, with good organizational and time management skills
+        Entrepreneurial spirit to get projects done in expedient ways and to continually find new opportunities to make an impact
+        Ability to work with a diverse, dynamic team effectively
+        Ability to continuously challenge assumptions, create new ideas, and push boundaries without pushing other people’s buttons
+        Experience programming for scientific applications (bioinformatics, cheminformatics, experimental data management) a big plus
+        Background in statistical inference a big plus
+
+Impossible Foods Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics

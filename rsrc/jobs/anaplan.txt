@@ -1,0 +1,90 @@
+Front End Engineer
+San Francisco, United States
+
+At Anaplan, we are looking for a self-motivated FRONTEND ENGINEERS to join our growing team in SAN FRANCISCO and contribute as a member of the Global Engineering organization located in San Francisco, Minneapolis, London and York, UK.
+
+As a Frontend Engineer, you will be a part of a team working on the software and infrastructure used to power decision making and process management in Anaplan. In this role, you'll be building performant, accessible, and elegant web user interfaces for creating and managing business processes that our customers implement using our platform.
+
+Located in the heart of the SOMA district, you can feel the excitement and energy of what we do at Anaplan when you step into our San Francisco office. We’re a high-growth company developing best-in-class solutions to planning at an enterprise scale. Our customers rely on Anaplan as an always-on shared source of truth as they navigate the constant change and planning required to stay on top in the marketplace—we're pioneering the Connected Planning discipline to help business make decisions more quickly and decisively than ever before. 
+
+To be successful in this role you will need to be able to thrive in a changing environment. Have a desire to develop a deep understanding of our system and excited to solve challenging problems at scale while delivering new capabilities to our rapidly growing number of customers. This role is an immediate full-time position. If you’re ready to roll up your sleeves and tackle unique problems that no one is solving in the tech space yet, keep reading. 
+
+  What you’ll be doing:
+
+    Build scalable, resilient components in a functional React frontend
+    Write code that is high-quality, performant, sustainable and testable, and hold yourself accountable for the quality of the code you produce
+    Coach and collaborate both inside and outside the team. You enjoy working closely with others, helping them grow by sharing expertise and encouraging best practices
+    Explore design approaches to improve the user experience in a complex domain
+    Work in a hybrid cloud infrastructure, considering the implementation of functionality through several distributed components and services
+    Work with our stakeholders to translate product goals into actionable engineering plans
+
+ More about you:
+
+    BS degree in Computer Science or related technical field, or equivalent practical experience
+    A strong background in fostering a culture of continuous delivery and agile development
+    A deep understanding of the value of testing to deliver high-quality code
+    Strong product and design sensibilities. You enjoy perfecting the details that matter
+    Must have 3+ years in modern JavaScript, HTML and CSS
+    Experience in building reusable, and modular UI components and ensure cross browser compatibility.
+    Must have 3+ years developing, deploying, and supporting commercial web applications
+    Familiar with WCAG/ARIA and how to build application based on these guidelines
+    Deep understanding of the tradeoffs between front-end JavaScript libraries
+    Knowledge and interest of current and emerging trends of the web platform
+    Experience with building observability into applications to track usage and health
+    Experience working closely with product management and UX teams to deliver the best solution to the problem at hand
+    Strong communication and collaboration skills - you are pragmatic and know how to build trust
+
+Bonus points:
+
+    Knowledge of business process modeling (BPMN) and related techniques
+    Worked with process-oriented applications and workflow interfaces
+    Experience working in production with cloud infrastructure such as AWS or GCP
+    Worked with containers and orchestration tools like Docker and Kubernetes
+    Experience with community frameworks and LMS, LRS systems.
+
+ Technologies you’ll work with:
+
+    NodeJS
+    ReactJS
+    HTML5
+    CSS3
+    Sass
+    AWS
+
+What we offer: 
+
+    A rewarding, progressive career with a company that values diversity, flexibility and understands the need for a good work/life balance. 
+    Market-leading salaries combined with generous bonuses, equity and a range of comprehensive benefits. 
+    Regular agile meet-ups, events and hackathons (both attending and hosting!) 
+    3 days of paid leave every year to help support the charity or cause of your choice. 
+    Huge problems to solve –you will constantly be learning and pushing boundaries, working with some of the most committed people around! 
+
+ Do you align with Anaplan’s Values?  
+
+Collaborative: We go out of our way to help others succeed 
+
+Explore all of our Values on Anaplan.com/careers 
+
+#AnaplanLOVE 
+
+ About Anaplan:
+
+We’re building a truly unique technology. From our calculation engine and in-memory  data  store,  to  apps  and predictive analytics; amazing technology is being developed every day.
+
+We’re addressing a $100B/year problem  that  all  global  businesses  face.  Our  mission  is  to  break  the  traditional business planning mold, currently performed through spreadsheets or legacy systems.  
+
+Anaplan’s Connected Planning platform is enabling customers to improve decision-making by turning response time into real time. With  900+ customers and 175+ partners globally, Anaplan’s platform is solving some of the most complex challenges in business. CEOs, analysts, and the press agree—Anaplan is changing the way the world does business. Learn about our history, see our recognitions and achievements, and take a look at what it’s like to work at Anaplan. Get to know more about working at Anaplan by checking out our social channels.  
+
+Facebook 
+
+Twitter 
+
+Instagram 
+
+YouTube  
+
+CAN’T FIND THE PERFECT ROLE FOR YOU? NEW OPPORTUNITIES ARE OPENING UP DAILY: 
+
+ANAPLAN.COM/CAREERS 
+
+#LI-RM1

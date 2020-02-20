@@ -1,0 +1,35 @@
+
+
+Movable Ink is a software company that provides marketers with technology and expert services to create unique customer experiences. Founded in 2010, Movable Ink pioneered contextual experiences in email and has powered over 1.5 trillion content impressions worldwide. More than 700 of the world’s most innovative brands rely on Movable Ink to create unique, relevant, and compelling visual experiences across email and web at the moment of engagement.
+
+The Senior Front End Engineer will be collaborating with product owners, developers, and end users to expand and enhance our platform-wide products including navigation, search, and asset management.
+
+As a Senior Engineer, you will also be working closely with other engineers to help scope work and continuously improve the product delivery process. 
+
+ 
+
+Fast forward one year. Here’s what you will have accomplished:
+
+    Built some incredible new features that our users love
+    Suggested and implemented improvements to the code base to make adding features easier
+    Made careful, but significant, changes to our existing product to improve user workflows
+    Leveled up the team through pairing, code review, and process improvements
+    Worked with Product and Design to define and shape product direction
+
+ 
+
+Basic Qualifications:
+
+    Proven experience building with modern front-end frameworks and tools (React, Vue.js, Ember, Angular, etc)
+    Fluency in all things front-end including HTML, CSS, Javascript, Accessibility, and testing practices
+    Experience working with Full Stack frameworks and API design
+    A track record of leveling up engineers with a variety of experience levels
+    Great communication skills as you’ll be collaborating with non-engineers as well as engineers
+
+ 
+
+Preferred Qualifications:
+
+    Experience with Ember.js 
+    Working knowledge of Ruby on Rails
+

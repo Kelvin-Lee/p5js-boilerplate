@@ -1,0 +1,32 @@
+Frontend Engineer
+San Francisco, CA
+Development
+Full-time
+Rescale is the top in enterprise big compute and is one of the fastest growing tech companies in Silicon Valley. Our customers range from disruptive and innovative startups to well-known  global automotive manufacturers. Our dynamic team is welcoming, collaborative and diverse. Becoming a part of the Rescale team means that you are part of the next generation in big compute. You will become part of the disruption which is turning traditional HPC on its head.
+
+We are looking for an experienced Frontend Engineer to join our team.
+ 
+In this role, your duties will include:
+ 
+•    Design, build and maintain performant, responsive and delightful experiences.
+•    Embrace and champion engineering best practices.
+•    Produce clean, high quality code and tests.
+•    Build dynamic interfaces to visualize and represent data in new and unique ways.
+•    Own and deliver frontend product decisions for our platform.
+•    Contribute engineering input and feedback into product planning processes.
+•    Shape our frontend by keeping our tooling up-to-date and keeping an eye out for high-impact libraries in the frontend ecosystem.
+ 
+Key Qualifications include:
+ 
+•    2+ years of JavaScript, including concepts like asynchronous programming, closures, types, and ES6.
+•    Strong understanding and experience with HTML, CSS and dynamic frontend fundamentals.
+•    2+ years of experience with browser APIs and optimizing frontend performance.
+•    2+ years of building modern UIs using React, Redux, ImmutableJS, Webpack, Babel, or similar tools.
+•    Possess the ability to think through customer requirements and quickly implement them.
+•    Have good intuition on code quality, user experience, and web design principles.
+•    Attention to detail and a passion for quality.
+•    Have the demonstrated ability to ship a high-impact product.
+•    You are passionate about learning and want to help us learn too.
+•    Strong organizational and communication skills.
+ 
+Rescale is an Affirmative Action, Equal Opportunity Employer.  As part of our standard hiring process for new employees, employment with Rescale will be contingent upon successful completion of a comprehensive background check.   

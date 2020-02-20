@@ -1,0 +1,27 @@
+Front End Engineer
+
+We are seeking an experienced engineer to build responsive and elegant interfaces for human-AI interaction. Come literally invent the best ways for AI assistants to present themselves and interact with consumers, using a blend of natural language understanding and traditional UI elements.
+Responsibilities
+
+    Design and implement user interfaces for our AI assistants and the services that run them.
+    Optimize web applications to maximize performance across mobile and desktop
+    Set technical product direction on front-end technologies
+    Identify and resolve issues of performance and scaling
+
+Preferred qualifications
+
+    3+ years of HTML/CSS experience, including layout, cross-browser compatibility, and accessibility
+    3+ years of JavaScript experience
+    Knowledge of web libraries and frameworks like React, AngularJS
+    Exposure to Python, JVM languages, Go, Linux, open source software, and cloud services is a plus!
+    Interest in machine learning and natural language understanding is a plus!
+
+The upside
+
+    Inventing something brand new and exposure to some of the most state-of-the-art technologies around
+    You will have a significant impact with ownership and autonomy over large parts of our technical stack
+    Competitive salary and significant equity at a fast growing company
+    Maximize your potential with flexible hours and leave policies
+    Medical, dental, and vision benefits
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

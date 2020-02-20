@@ -1,0 +1,36 @@
+Sr. Front End Engineer
+Oakland, CA
+Engineering
+Full-Time
+We’re looking for a Lead Frontend engineer that will help us design a new FinTech system from the ground up with best-in-class tools. Lead means just that - leading the design and infrastructure needed to build a compose-able, reusable component based modern user interface.
+
+Join a small team of experts and make a huge impact on the rapidly growing industry.
+Responsibilities
+
+        Lead the Frontend development of a completely new system for loan management from the ground up
+        Build robust infrastructure to support new services and products
+        Collaborate with product and design and be part of the shaping up products
+        Collaborate with legal and compliance to understand how to build compliant products
+
+Requirements
+
+        Bachelor’s degree in Computer Science, Engineering, Math or relevant technical experience
+        3+ years of frontend development experience
+        Experience building user interfaces and shaping user experience
+        Experience designing and building component based and embeddable UI components
+        Ability to write clean, reliable code that can be easily maintained and be tested automatically
+        Startup experience or experience working in small teams, a plus
+
+Skills
+
+        JavaScript
+        React.js (Vue.js or similar frameworks)
+        An eye for clean design and UX
+
+Benefits/Perks
+
+        Work in the East-Bay, avoid the commute and rush to Silicon Valley or SF!
+        Be part of the first engineers in a rapidly-growing team
+        Shape the overall engineering architecture and culture
+        Full benefits, including healthcare, parking and/or commuter benefit, gym membership, and more
+        Small & friendly work environment

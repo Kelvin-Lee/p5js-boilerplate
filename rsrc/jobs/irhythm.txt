@@ -1,0 +1,46 @@
+
+Front End Developer
+at iRhythm (View all jobs)
+Headquarters
+
+ 
+
+About this role:
+
+The iRhythm Software Engineering team is looking for an experienced software engineer to join the team in its' San Francisco location. As a member of iRhythm’s Software Engineering team you will help deliver solutions for the ZioSuite web portal and other upcoming initiatives. This position provides an opportunity to work on a diverse, innovative set of SaaS based solutions within the medical device/software industry.
+
+Responsibilities include:
+
+    Develop client side components for iRhythm web applications, contributing to web application maintenance feature development.
+    Collaborate with product designers and peer engineers to produce creative and pragmatic solutions.
+    Develop unit tests for code developed, participate in peer code reviews.
+    Keep current with web UI technology and UX trends.
+
+Required Qualifications
+
+    2+ years of experience developing web based user portal applications in a cross browser environment.
+    Experience with JavaScript, HTML5, CSS3; Angular (2 or later).
+    Excellent analytical and problem solving skills.
+    Strong interpersonal and verbal communication skills.
+    BA/BS in Computer Science or related technical field.
+
+Preferred Qualifications
+
+    Expertise in latest UX good practices and trends
+    Experience developing internationalized applications.
+
+What’s in it for you
+
+This is a full-time position with competitive salary package and excellent benefits including medical, dental, and vision insurance, paid holidays and time off.
+
+ 
+
+iRhythm also provides additional benefits including 401(K) (with company match), ESPP, free breakfast and lunch in our SF office, annual organizational and cultural committee events, charitable outreach and more!
+
+ 
+
+FLSA Status: Exempt
+
+As a part of our core values, we ensure a diverse and inclusive workforce. We welcome and celebrate people of all backgrounds, experiences, skills and perspectives. iRhythm Technologies, Inc. is an Equal Opportunity Employer (M/F/V/D). Pursuant to San Francisco Fair Chance Ordinance, we will consider for employment all qualified applicants with arrest and conviction records.
+
+Make iRhythm your path forward.

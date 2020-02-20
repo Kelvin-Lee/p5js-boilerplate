@@ -1,0 +1,39 @@
+Company Description
+
+THINK Surgical, Inc. develops, manufactures and markets the only active robotic surgical systems for orthopedic surgery. The systems include two components: a 3D workstation for preoperative planning, and a computer assisted tool utilized for cavity and surface preparation for hip and knee replacement surgeries. The systems have been used in thousands of joint replacements worldwide.
+
+Job Description
+
+Develop enterprise-level software and assist with Implant development/testing process.
+
+Responsibilities
+
+    Work on developing software that support, automate and streamline implant development cycle
+    Document, implement, and validate software application
+    Follow rigorous design control methodology and write concise requirements specifications, architecture specifications, and design description, verification plans, and test cases
+    Perform testing of software for verification and validation
+    Manage schedules, meet and adhere to development goals
+    Provide planning and status information to project manager
+
+Qualifications
+
+    Bachelor’s degree in Computer Science, Computer Engineering or related program and 2+ years of industrial software development experience
+    Proficient with Python, C++, Java or other OOD language and good understanding of basic algorithm and data structures
+    A good understanding of web-based software architectures
+    Experience with HTML, CSS, Javascript/Typescript, AJAX
+    Version Control with Git
+    Excellent communication and documentation skills
+    A high level of creativity and self-motivation
+    Good attendance and punctuality are essential for this position
+
+Preferred Qualifications
+
+    Experience developing software using Python and Django Framework
+    Experience with Javascript React Framework
+    Experience developing in AWS, Azure or other cloud computing environment
+
+Additional Information
+
+THINK offers a fast-paced, dynamic environment with the advancement potential of an entrepreneurial company. We provide a competitive compensation package that includes comprehensive benefits, a company-matched 401k plan, and more. We strive to build the strongest and brightest teams in the industry. If you would like to work on tomorrow’s leading orthopedic solutions today, we would love to hear from you.
+
+THINK is an equal opportunity employer that hires a diverse workforce. All qualified applicants will receive consideration for employment without regard to their race, color, national origin, religion, age, sex, disabilities, veteran status, or sexual orientation.

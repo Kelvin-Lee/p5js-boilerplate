@@ -1,0 +1,49 @@
+Bungalow is a residential real estate platform providing beautiful homes with great roommates, paired with a seamless digital-first experience for early career professionals. We take care of everything from matching great roommates and furnishing a home’s common areas to streamlining rent and utility payments and handling service requests, removing friction from the rental experience. In addition, Bungalow helps its residents create a thriving community through exclusive social events and volunteer opportunities. Bungalow is able to offer homes in the most desirable neighborhoods by working directly with homeowners who are looking for a guaranteed income stream but don’t want to sell their homes. This model has helped Bungalow scale to hundreds of homes within a year.
+
+Founded in 2017 by Andrew Collins and Justin McCarty, the company currently has more than 3000 community members in hundreds of homes across 10 markets.
+
+We are looking for an engineer to work closely with our product and marketing teams to support our growth and community efforts. This role will help maintain our growth stack including funnel analytics, lifecycle marketing, split testing and third party relationships. The role will be based out of our HQ office in San Francisco, but will partner with (and require travel to) our engineering office in Toronto, Canada.
+
+What You'll Do
+
+Work closely with our core engineering office and HQ teams
+
+Own instrumentation of our conversion funnel analytics platform (currently Segment)
+
+Manage customer data pipelines to ensure third party systems are receiving conversion/customer context
+
+Work with our data analytics team to ensure that marketing/funnel performance data can be leveraged for decision making
+
+Develop an understanding of our product-technology stack and how it weaves together with business processes
+
+Writing and editing documentation to allow others to have self-serve resources to reduce engineering time spent on internal support issues
+
+Developing against features and bugs in order to reduce technical debt
+
+Learning development time to create new ways for us to avoid future problems
+
+Who You Are
+
+2+ years working in a software development role with strong FE experience
+
+Excellent sync and async communication skills
+
+Strong attention to detail and a passion for producing a quality product
+
+Proven track record owning the evolution of technical materials (specs, schemas, documentation)
+
+Thrives in an early stage environment
+
+Technology Stack
+
+Languages- Javascript (ES6), Python (3.6+)
+
+Frameworks- VueJS, Django (+Django Rest Framework) Data: PostgreSQL, Salesforce ETL
+
+Ops- AWS, Docker
+
+Other- Git, Webpack, SCSS
+
+Although these are the tools we currently use, we welcome applicants without prior experience using them, who are willing to learn.
+
+This is an excellent opportunity to work for a well-funded startup on the ground floor. Bungalow is one of the fastest growing portfolio companies to launch out of the Marc Andreessen backed Venture Studio, Atomic (www.atomic.vc). We are looking for a person with excellent communication skills, a willingness to roll-up their sleeves and has great execution! Must also be comfortable with ownership and ambiguity!

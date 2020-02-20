@@ -1,0 +1,49 @@
+
+Web Developer
+Overview
+
+Mid-level, full stack, web developer needed for 5 weeks of part-time work, with possible extension.
+
+The project will consist of translating 10 user stories that expand upon an existing travel e-commerce flow  into wireframes, and a scripted, interactive web-based prototype.
+
+The final deliverable will be a Proof of Concept to be delivered to a customer at the executive level.
+
+ 
+
+The user experience should be seamless, professional and intuitive.
+
+ 
+
+Minimal back-end work will be needed for this project as all data will be static and stored a local database.
+
+ 
+
+You will work closely with the project manager and provide daily updates on progress.   While remote work is possible, you are also welcome to work alongside our team in our SOMA office location.  An estimated minimum of four hours per week will be needed for on-site, face-to-face ideation and collaboration with the project team.
+
+ 
+Must haves:
+
+    Minimum of two years demonstrable success in web development
+    HTML5, CSS, JS
+    Application deployment using Github
+    Experience building user interfaces and prototypes from wireframes and designs
+    Experience delivering to enterprise customer standards
+    Experience building customer-facing websites that work elegantly across commonly used browsers and devices
+    Passion for creating high-quality, visually-compelling projects
+
+ 
+Nice to haves:
+
+    An eye for design
+    UI/UX experience
+    Competency in Photoshop / Illustrator for modification of existing graphical elements, screen grabs, et cetera
+
+ 
+You should be:
+
+    Autonomous – You will be provided everything you need to begin work immediately with support along the way if anything is unclear
+    Attentive to detail
+    Proactive – If you need something to deliver on time, just ask!
+    Assertive – If you would prefer to take a different approach, tell us about it!
+    Accountable – Timing on this project is tight. You will need to take ownership for specific deadlines and provide full visibility of project velocity to the project manager.
+

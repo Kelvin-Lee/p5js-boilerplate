@@ -1,0 +1,40 @@
+Groove is a leading sales engagement platform that makes account-based revenue teams more efficient and effective at finding, landing, renewing and expanding revenue. Groove delivers a 10X productivity boost to your most expensive and valuable resources, allowing them to spend more time building relationships and generating revenue.
+
+Over 40,000 AE's and CSM's use Groove at some of the world’s fastest growing companies, including Google, Uber, Slack, Tipalti, and Capital One. Groove’s platform was ranked #1 in G2's Sales Engagement Relationship Index 2019 and received the highest Satisfaction score among Sales Engagement products based on verified user reviews.
+
+Groove is one of the Inc. 5000 fastest-growing privately held companies in the U.S. and ranks #14 on the San Francisco Business Times' "fastest-growing private companies in the Bay Area in 2019."
+
+Founded in 2014, Groove is headquartered in San Francisco with offices in San Diego and Seattle. To learn more, visit https://www.groove.co.
+
+About The Role
+
+We're looking for a full-stack software engineer that will work on multiple components of our technology stack, from concept phase through testing and launch.
+
+This is an opportunity to be an early employee with all the upsides of a rising start-up, take on a lot of responsibility and substantially shape the future of the company. We seek entrepreneurial engineers who love to solve complex problems and want to create smart and beautiful software that serves its user magically.
+
+Tech Stack
+
+    Ruby on Rails
+    Javascript
+    Chrome Extensions
+    Apex Visualforce
+    React.js
+
+Benefits
+
+    Medical/dental/vision insurance
+    Life Insurance
+    Flexible PTO
+    Paid holidays
+    Stock options
+    401k match
+    A stocked kitchen and cold brew and kombucha on tap
+    Fun, collaborative, and balanced culture 
+
+Our Culture and Core Values
+
+Our values speak volumes about who we are, both as individuals and as a team. At Groove, we put our team before ourselves and are dedicated to ensuring that our teammates are happy and satisfied, both in their careers and their work environment. We are a team of high-performers that operate in a culture of empathy and transparency, with a natural curiosity to continually grow. We put the team before ourselves, care more and enjoy the journey above all else. These are only a few of the reasons that we have a five-star rating on Glassdoor.
+
+Groove is an equal opportunity employer and values diversity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We offer highly competitive compensation packages and excellent benefits, including medical/dental/vision insurance, unlimited PTO, paid family leave, professional development reimbursement and a matching 401K.
+
+If this sounds like your next ideal career move, we would love to hear from you.

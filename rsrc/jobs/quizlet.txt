@@ -1,0 +1,43 @@
+Fullstack Engineer, Growth Platform
+San Francisco, CA
+Engineering – Pod Infrastructure
+Full-time
+Quizlet’s mission is to help students (and their teachers) practice and master whatever they are learning. Every month more than 50 million active learners from 130 countries practice and master more than 300 million study sets on every conceivable topic and subject. We are developing new learning experiences by modeling how students learn and drawing upon knowledge acquisition, retention, and pedagogy in cognitive science. We are always seeking to help students master any subject by optimizing study efficiency and engagement.
+
+As part of the Growth Platform team, we work with all parts of the organization on their engineering needs. This role will focus mainly on web frontend projects that could include working in PHP (Hacklang), javascript, and CSS. Our goal is to empower the Product Engineers to do larger, user facing functionality. A big project will be working with Product Management and Designers on a UI parts kit so Pods can more easily integrate a consistent UI experience across the product. You will also be working on scaling our User Ops content moderation reports, enhancing our Zendesk Help Center, building user facing features that focus on login/signup, and maintaining our blog and website.
+
+Quizlet is a leading company in consumer learning technology with proven traction and huge growth ahead. Our business model is robust with two strong revenue streams — advertisements and paid subscriptions. Our ads business allows us to offer amazing study tools to millions of students around the globe for free. And our premium subscriptions give students and teachers the ability to create custom content and access learning analytics tools. Come help us scale one of the fastest growing and highest quality consumer learning brands, as we develop innovative simple-to-use study tools that help students everywhere.
+Responsibilities as a Technical Lead
+
+        Predictable Delivery - Deliver what you say you can and get your team to do the same
+        Technical execution - Work alongside your team to execute on projects using your experience to make the right technical decisions
+        Loves making UI look crisp and clean
+        Demonstrate a strong sense of service ownership spanning all aspects of the service lifecycle including design, development, operation, and continual improvement
+        Data-driven mindset to identify faults and areas for continual improvement
+        Work collaboratively with our stakeholders, Marketing, User Ops, People Ops, and Engineering teams
+        Participate in design, code, and architecture reviews
+        Investigate new technologies that may be of use to the team    
+
+Example Projects
+
+        Scaling our Content Moderation reports that can show multi-thousand rows of data
+        Building a parts kit that allows us to have a consistent UI experience
+        Ensuring all parts of the product are built for Accessibility
+        Maintaining our website and blog site.
+
+Required Qualifications
+
+        2+ years experience as a Software Engineer focusing on UI
+        Experience refactoring reports
+        Experience working with modern JavaScript libraries and tooling — for example, we use React, Redux, Flow, webpack, and Prettier
+        Familiarity with Zendesk or Braze is a plus
+
+
+
+We hope you are excited about everything you read so far. We highly encourage you to apply for this position, even if you feel you do not meet all the requirements. Quizlet is always looking for amazing folks that believe in our mission and can contribute to our team in various ways - not merely candidates that fit a certain mold.
+
+Quizlet's Team Culture
+
+We are here to make education better and more accessible. We strive to improve the lives of students and teachers at every stage and in every setting. We have a bias for action, take initiative, and hustle to deliver results. We make informed decisions whenever possible but are unafraid to take calculated risks on great ideas to promote learning. We embrace challenges and see effort as the path to mastery. We’re constantly seeking opportunities to learn and we embrace curiosity. Quality matters at Quizlet, and we hold the bar high on everything we do. We sweat the details and take personal accountability and pride in anything that carries the Quizlet name. We speak up, jump in and work with each other to fix problems, and never say "that's not my job." We treat each other with honesty and respect, encourage vigorous debate, and seek critical feedback. We value diversity, humility, transparency, and collaboration as the best paths to our success — as individuals, as a team, and as a company.
+
+Quizlet’s success as an online learning community depends on a strong commitment to diversity, equity and inclusion. We are actively working to build a team that is representative of the diverse communities we serve, and an open, inclusive work environment where all employees can thrive. As an equal opportunity employer and a tech company committed to societal change, we welcome applicants from all backgrounds. Women, people of color, members of the LGBTQ+ community, individuals with disabilities, and veterans are strongly encouraged to apply. Come join us!

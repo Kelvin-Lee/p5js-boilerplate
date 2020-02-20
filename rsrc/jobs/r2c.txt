@@ -1,0 +1,22 @@
+We're a small San Francisco startup passionate about analyzing code and measuring its security. We provide tools to developers, hackers, and researchers that simplify program analysis and make it possible to analyze entire software ecosystems quickly (e.g. every publicly available JavaScript project on GitHub). Security issues are an open source public health problem; with your help we can vaccinate the community against entire classes of exploits. Come join us and give back to the open source community!
+
+You'll be an early full stack engineer working with our designers, security researchers, and developers everyday to create a platform that brings together program analysis authors with people who review and fix issues in open source software. Our backend is primarily Python, our frontend is primarily TypeScript with React, and we use modern web infrastructure (e.g AWS, Docker).
+
+We take an empirical approach to product development, proposing experiments and rigorously validating our ideas. We believe in building each other up and 'yes and...' conversations! You’ll have the opportunity to meet with users and set the direction of the product here.
+
+Responsibilities
+
+    Full-stack web application development with a variety of languages including JavaScript/TypeScript and Python
+    Work closely with our PM and designers to define feature specifications and build innovative developer-facing products
+    Work closely with operations and infrastructure to build and scale back-end services
+
+Minimum Qualifications
+
+    BS degree in Computer Science, similar technical field of study, or equivalent practical experience
+    Experience in software development (new graduates through senior engineers welcome)
+    Experience with Python, JavaScript, or TypeScript
+    An interest and/or background in security is a plus!
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other basis covered by appropriate law.
+
+Working proficiency and communication skills in verbal and written English and being authorized to work in the US are required.

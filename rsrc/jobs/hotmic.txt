@@ -1,0 +1,57 @@
+Front End Developer - ReactJS
+Hot Mic
+-
+San Francisco Bay Area, CA
+
+About Hot Mic
+
+Hot Mic is a newly funded, rapidly growing startup with a live streaming social sports app. Up-and-coming personalities providing alternate commentary paired with social features such as chat and twitter create an active & positive community during the game. iOS launched in September and Android in December, allowing us to grow to tens of thousands users in just a few months. We now looking to scale our ability to onboard more creators while bringing the viewing experience to the web. This is a unique opportunity to capture a key role in an early startup poised to grow rapidly.
+
+Description
+
+We are looking for an experienced, top-notch React.js developer to launch Hot Mic for the web. With high-quality designs in-hand, you will be well prepared to bring the Hot Mic viewing experience to the web, build management dashboards for creators, and production tools for the Hot Mic team.
+
+Responsibilities
+
+    Architect, develop, deploy, and maintain Hot Mic web front-ends
+    Support the site while live events are taking place
+    Work closely with our designer, backend developer, and CTO
+    Support the production team while building tools they love to use.
+    Get to know our creators, their workflows and needs
+
+Experience
+
+    Strong experience with HTML/CSS, javascript, React.js, REST APIs
+    Experience building APIs to query mongodb data.
+    Experience building responsive sites for mobile and web
+    Experience maintaining a site with thousands of simultaneous users
+    Experience working in a small, dynamic startup
+    Video streaming experience a big plus
+    Social media experience a plus
+
+Job Type: Full-time
+
+Experience:
+
+    ReactJS: 2 years (Required)
+    JavaScript: 5 years (Required)
+    HTML: 5 years (Required)
+
+Education:
+
+    Bachelor's (Required)
+
+Work Location:
+
+    Fully Remote
+
+Benefits:
+
+    Health insurance
+    Dental insurance
+
+This Job Is Ideal for Someone Who Is:
+
+    Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+    Detail-oriented -- would rather focus on the details of work than the bigger picture
+    Achievement-oriented -- enjoys taking on challenges, even if they might fail

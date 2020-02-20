@@ -1,0 +1,39 @@
+Web Developer - Back-end Focus
+Plexuss.com
+-
+Walnut Creek, CA 94596
+
+Want to use your web development expertise to help people around the world further their education?
+
+As a web developer, your work will be the front and center to millions of our student users and you will have an opportunity to shape and scale our website. Our ideal candidate is eager to learn. We are looking for someone who is open and positive about taking on new challenges and learning as they go.
+
+We are a strong believer that cultural fit is a strong contributor to long term employee contentment. Help us determine if this role is a good fit for you by completing our mandatory hiring questionnaire (this takes less than five minutes to complete):
+https://www.surveymonkey.com/r/33CSHZY
+
+Responsibilities:
+
+    Full-stack development with technology using, ReactJS, Redux, etc.
+    Implementing both front-end and back-end web and mobile-based applications.
+    Design, develop, test, deploy, maintain, and improve software across the stack
+    Develop automated tests and deliver high-quality code to production within a short development cycle
+    Work closely with our extended team
+
+Requirement:
+
+    Computer Science, Information Technology degree, or equivalent experience
+    Strong capability of troubleshooting.
+    Strong understanding of HTML, CSS, JavaScript,
+    Understanding of MVC frameworks
+    Knowledge of working with GitHub.
+    Experience with data structures, algorithms, and big data
+    Experience with XML, JSON, Restful services, and SOAP
+    API Creation, and maintenance
+    At least a year experience with PHP5, C#, MYSQL Client, and server
+
+keywords: full-stack engineer, web developer, full-stack developer, full-stack programmer, full-stack mobile developer, backend engineer, backend developer, cloud engineer, back end web developer, qa engineer, front end engineer, front end developer, senior web developer
+
+Job Type: Full-time
+
+License:
+
+    Hiring Questionnaire Completed (linked in job posting) (Required)

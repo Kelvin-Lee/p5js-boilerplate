@@ -1,0 +1,49 @@
+Frontend Engineer
+at Comfy (View all jobs)
+Oakland, CA
+
+About Comfy
+
+Founded in 2012, Comfy is a Siemens-owned business on a mission to connect employees to the people, places, and things they need to do their best work. Our SaaS platform combines building intelligence, space analytics, and a consumer-grade mobile app technology to improve the workplace experience for Fortune 500 companies around the globe. Headquartered in Oakland, California, our fast-growing team balances the dynamic energy of a small company with the backing of a global powerhouse.
+
+About the Role
+
+As a Frontend Engineer at Comfy you bridge design and engineering daily. Your eye for design brings mockups to life and will delight our users with transitions and polish. Your understanding of technical tradeoffs, curiosity in discovering edge cases, and craftsmanship efficiently creates reliable code. You will help us investigate new technologies that will allow our team to quickly iterate and build the best possible experience.
+
+About You
+
+You love crafting beautiful applications that work smoothly on all browsers and on mobile. You have worked with IE and mobile Safari and they don't scare you. You have the instincts to avoid troublemakers and performance hogs like tag-based selectors and frequent DOM lookups. Your code is maintainable, well-structured, and just works. You enjoy exploring new technologies, being on the leading edge, and collaborating with a team of talented engineers.
+
+Required Skills
+
+    3+ years of industry experience developing web applications
+    In depth knowledge of HTML/CSS/JS across browsers (yes, IE and mobile, too!)
+    Experience with responsive design
+    Familiar with Vue, AngularJS, or other modern Javascript web frameworks
+    Ability to write comprehensible, well-structured, highly performant code
+    Knowledge of computer science fundamentals: data structures, algorithms, design patterns
+    Proven ability to work collaboratively with other engineers, designers, and business stakeholders
+
+Bonus if You Have
+
+    Knowledge of Frontend unit testing methodology and tools
+    Experience with Cordova, Android, or iOS development
+    Experience working on a software team that follows a process
+    A willingness to pitch in when needed and work on our Python backend in Django
+
+Our Benefits
+
+    Market-leading software application centered on improving the workplace experience, Comfy : )
+    Brand new, bright, airy office in sunny downtown Oakland steps away from BART
+    Take-what-you-need vacation policy
+    Competitive salaries
+    Generous medical, dental and vision insurance
+    Matching 401k policy
+    Frequent team events (costumes optional) and lots of snacks
+    Independent start-up culture with the backing of a global corporate powerhouse
+
+Our Promise to You
+
+We believe your work is an extension of yourself. At Comfy, we hire many sorts of selves and that’s what makes us exceptional. We value diversity of thought, always asking tough questions, committing to solutions—and we do that best when we have and nurture every point of view. We value you, and we want to hear you, learn from you, and move forward together.
+
+ 

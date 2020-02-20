@@ -1,0 +1,57 @@
+Front End Web Developer
+Pet Food Express
+145 reviews
+-
+Oakland, CA 94621
+
+Pet Food Express is looking for a Front End Developer to take our fast-growing e-commerce platform to the next level. The ideal candidate is someone that cares deeply about the pet parent experience and is extremely collaborative with teammates and stakeholders. Working directly inside our creative Marketing team, this position works closely with our visual designers and back end developers to turn page mock-ups into stunning websites for our customers.
+
+What you'll do:
+
+    Build beautiful, user-friendly web pages for our e-commerce platform
+    Build and maintain monthly homepage and customer learning environment
+    Provide website maintenance and enhancements
+    Build reusable code and libraries for future use
+    Ensure the technical feasibility of UI/UX designs
+    Optimize application for maximum speed and scalability
+    Collaborate with other team members and stakeholders
+    Create cascading style sheets (CSS) that are consistent across all browsers and platforms
+    Maintain graphic standards and branding throughout the product's interface
+    Stay up-to-date on emerging technologies
+    Promote usability best practices
+    Maintain ADA compliance and best practices
+
+What you'll bring:
+
+    Bachelor's degree or equivalent mastery of front-end development
+    Qualified candidates should be able to demonstrate technical aptitude in the following technologies:
+        HTML 5
+        CSS
+        JavaScript
+        Content Management Systems (CMS)
+        Highly qualified candidates should be familiar with:
+        jQuery
+        SASS
+        TypeScript
+        Node.js
+        Stencil
+        JSON
+    Ability to manage multiple projects in a fast-paced environment
+    Ability to self-direct under ambiguous and changing circumstances
+    Must be detail-oriented and have strong organizational skills
+    Must have strong written, digital and verbal communications skills
+
+What you'll love:
+
+    Managers who care about your professional development
+    Being part of a collaborative team that makes an impact
+    A pet-friendly office with onsite dog park
+    A generous employee store discount for you and your family members in all our 60+ stores
+    Competitive pay including sick, holiday, and vacation pay
+    Health insurance, 401k match, profit sharing, and other great benefits—even pet insurance!
+
+About the Company
+
+We're Pet food Express, and we're transforming our customers' relationships with their pets. How? With exactly-right products, helpful services, and expert advice for even the toughest pet problems. Since 1986, our commitment to purpose over profits has driven our decades-long history of continuously strong growth. But don't take our word for it: in addition to a long list of national awards, we've been a "Top Bay Area Workplace" for 8 years running. Our dog-friendly office is collaborative, hard-working, and fun. Sound like the right fit? We'd love to hear from you.
+
+Pet Food Express is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or locally protected class.

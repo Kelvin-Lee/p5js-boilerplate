@@ -1,0 +1,46 @@
+Who We Are
+
+Since 2006, 23andMe’s mission has been to help people access, understand, and benefit from the human genome. We are a group of passionate individuals pushing the boundaries of what’s possible to help turn genetic insight into better health and personal understanding.
+
+Who You Are
+
+Join our growing Engineering team and enjoy a collaborative environment with small project teams working on a variety of tasks ranging from web and application development to genotype data processing.
+
+You will define and design compelling new customer-facing features, focusing on our Health Product, that helps people take control of their health and improve their lives. You’ll have an opportunity to help millions of people feel empowered to do something about the conditions they have.
+
+What You'll Do
+
+    Play a key role in product development and feature definition as we democratize healthcare
+    Pragmatically design and implement new features and frameworks
+    Advocate and advance extensive automated testing
+    Create solutions that scale to our millions of customers
+    Work directly with Product, Design and research scientists
+    Quickly identify and launch MVP solutions, then iterate
+    Eliminate unnecessary process
+
+
+What You'll Bring
+
+    Minimum 2+ years of industry experience, including real-world experience delivering production-quality code
+    BS in Engineering or related field, Masters a plus
+    A passion for 23andMe’s efforts to further scientific literature while improving people’s lives
+    Strong JavaScript/CSS/HTML background, React experience a plus
+    Working knowledge of Python, data pipelines and/or significant exposure to different programming languages and paradigms
+    Experience with full stack web application development
+    Understanding of web security and cryptography concepts
+    A team player attitude with comfortability operating in a highly collaborative environment
+    Ability to work with minimum supervision to deliver well-designed high-quality code on time
+
+Pluses
+
+    Experience with development in the AWS ecosystem
+    Experience with modern front-end technologies, especially React
+
+
+About Us
+
+23andMe, Inc. is the leading consumer genetics and research company. Our mission is to help people access, understand and benefit from the human genome. The company was named by MIT Technology Review to its “50 Smartest Companies, 2017” list, and named one of Fast Company’s “25 Brands That Matter Now, 2017”. 23andMe has over 5 million customers worldwide, with ~85 percent of customers consented to participate in research. 23andMe is located in Sunnyvale, CA. More information is available at www.23andMe.com.
+
+At 23andMe, we value a diverse, inclusive workforce and we provide equal employment opportunity for all applicants and employees. All qualified applicants for employment will be considered without regard to an individual’s race, color, sex, gender identity, gender expression, religion, age, national origin or ancestry, citizenship, physical or mental disability, medical condition, family care status, marital status, domestic partner status, sexual orientation, genetic information, military or veteran status, or any other basis protected by federal, state or local laws. If you are unable to submit your application because of incompatible assistive technology or a disability, please contact us at accommodations-ext@23andme.com. 23andMe will reasonably accommodate qualified individuals with disabilities to the extent required by applicable law.
+
+Please note: 23andMe does not accept agency resumes and we are not responsible for any fees related to unsolicited resumes. Thank you.

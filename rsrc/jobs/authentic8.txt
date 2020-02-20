@@ -1,0 +1,31 @@
+Web Developer Engineer - Web Extensions
+San Francisco, CA
+Engineering – Hosted App
+Full-time
+We are a fast-growing cyber security company with multiple offices (San Francisco CA, Redwood City CA, Washington DC).  We secure the most attacked surface areas and most at-risk users on the planet. Our customers across the Federal Government and Enterprise segments are marquee names. The demand for our flagship product (Silo) is driving aggressive growth and hiring! Founded in 2010 by principals from Postini, Authentic8 is redefining how organizations secure their data and their environments. Silo is a patented cloud based web isolation and control platform that allows organizations to place a zero-trust boundary between sensitive assets and untrusted environments wherever that exists.
+
+We have an immediate opening for a Web Developer Engineer, ideally to be located in our San Francisco, CA office. The ideal candidate has a proven track record of success in a fast-paced SaaS or traditional software company.
+Key areas of responsibility:
+
+        Contribute to building and maintaining Authentic8’s Silo product and applicable modules
+        Help maintain our customer facing Web Portal, SSO Endpoints, and API
+        Document, test and internally support all the functionality of builds
+
+Skills:
+
+        Experienced with and comfortable coding in JavasScript and Python.
+        Mastery of HTML, the DOM and styling with CSS.
+        Experience with WebExtensions API or XPCOM/XUL.
+        Proficiency with development tools such as jira, git, bash, etc.
+        Willingness to independently research and learn new technologies as needed.
+        Experience with Django and/or other MVC website frameworks.
+        Exposure to ReactJS and or other modern JavaScript frameworks.
+
+Qualifications:
+
+        BS in Software Engineering (or equivalent)  
+        4-6 years of related professional experience in software development
+
+Authentic8 offers competitive benefits, including medical, dental and vision, flexible PTO, a 401k program and stock options.
+
+It is the policy of Authentic8 to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law.  

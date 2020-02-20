@@ -1,0 +1,31 @@
+Applications at Scale
+
+The user interfaces that frontend engineers build at Scale combines humans and machines in a way that's never been done before. We have tens of thousands of human labelers working on millions of tasks a month, so it’s important to build intuitive, efficient, and delightful tools for them to use, such as our Sensor Fusion Labeling tool.
+
+In this role you will be working on a variety of projects such as creating seamless workflows for our human labelers and designing powerful tools to label complex data such as images/videos and LiDAR data. You will also collaborate with machine learning engineers to create hybrid labeling pipelines powered by a combination of machine learning and human judgment.
+
+As An Frontend Engineer For Applications, You Will
+
+    Create optimized and efficient frontend tooling for our labelers to complete complex tasks.
+    Design frontends that optimally combine machine learning predictions with human inputs.
+    Build out tools for labeling data in 3D that have high performance on consumer laptops.
+    Collaborate with backend engineers, UX designers and ML Engineers.
+    Work on a small team critical to the company's mission.
+
+This Role Could Be a Fit If You Have
+
+    3-7+ years of industry experience as a software engineer post graduation
+    Experience building highly performant and data-intensive apps.
+    Highly mathematical approach to design.
+    Product engineering experience. Building full-stack web apps, integrating with relevant APIs and services.
+    Experience with React.
+    Experience with Node.js and MongoDB, or comparable technologies.
+    Experience with three.js or other work building 3D user interfaces.
+    Mentored and grown members of your team or been a tech lead on large projects
+    A bachelor’s degree (or equivalent) in a related field.
+
+About Us
+
+At Scale, our mission is to accelerate the development of Machine Learning and AI applications across multiple markets. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include OpenAI, Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more
+
+Scale is an equal opportunity employer. We aim for every person at Scale to feel like they matter, belong, and can be their authentic selves so they can do their best work. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

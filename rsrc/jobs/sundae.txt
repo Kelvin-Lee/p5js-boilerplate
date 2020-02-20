@@ -1,0 +1,50 @@
+Front End Software Engineer
+Sundae
+-
+San Francisco, CA
+Company Overview
+
+Sundae's mission is to help homeowners get the best outcome when it's time to sell a house that needs some love. For too long, the process for selling outdated and damaged houses has been terrible for sellers: local property investors capitalize on homeowner distress to purchase houses cheap and resell them for huge profits.
+
+Sundae is putting those profits back in the hands of the homeowner. We've developed a trusted brand, a model to predict when sellers will need our help, and a best-in-class sales and marketing team to reach them. Our scale and efficiency allow us to redistribute economics to sellers in the form of the most competitive price so that Sundae can become the largest wholesaler of houses in the United States.
+
+We are a Founders Fund-backed company with product-market fit, scaling revenue, and a very significant target market (think 5-6% of US property transactions). Our team is comprised of seasoned leaders from real estate and marketplace businesses and with significant high-growth company experience (Airbnb, Dropbox, Chime, LendingHome).
+
+About the Role
+
+We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
+
+Responsibilities
+
+    Develop new user-facing features
+    Build reusable code and libraries for future use
+    Ensure the technical feasibility of UI/UX designs
+    Optimize application for maximum speed and scalability
+    Assure that all user input is validated before submitting to back-end
+    Collaborate with other team members and stakeholders
+
+Skills And Qualifications
+
+    Proficient understanding of web markup, including HTML5, CSS3
+    Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS
+    Good understanding of ReactJS and GraphQL, and Webpack.
+    Good understanding of asynchronous request handling.
+    Basic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. Familiarity with tools such as as Gimp or Photoshop is a plus.
+    Proficient understanding of cross-browser compatibility issues and ways to work around them.
+    Proficient understanding of code versioning tools, such as Git.
+    Good understanding of SEO principles.
+
+What We Offer
+
+    One of the most energetic teams that truly cares about the company and the people in the company
+    Freedom to help craft your role to your career goals and interests
+    Competitive salary based on experience, with medical and dental benefits
+    Free snacks and drinks
+    Monthly happy hours and company events
+    A challenging and fulfilling opportunity to join one of the most experienced teams in real estate and marketplace innovation with a mission to help homeowners in their time of need
+
+Follow us on LinkedIn ( https://www.linkedin.com/company/sundaehq )
+
+Watch our overview video ( https://www.youtube.com/watch?v=1PziMGJqMbY&t )
+
+Watch our customer testimonial ( https://www.youtube.com/watch?v=C8Bjy5dAiw0 )

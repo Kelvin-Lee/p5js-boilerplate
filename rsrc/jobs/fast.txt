@@ -1,0 +1,39 @@
+Fast logo
+Senior Front End Engineer
+San Francisco
+Engineering
+Full-time
+Help us build the world's fastest login and
+checkout.
+
+Summary
+
+We are looking for a Front-End developer that has worked on software and tech solutions at scale that wants to join a dynamic and innovative team. Come join Fast and be one of the formative engineers on our team to help us create lasting and user focused services and platform solutions at scale. We are building the world's fastest login and checkout service and want you to help us shape and create this experience.
+
+Role
+
+-Believe that teamwork and peer involvement is the best way to work and you want to contribute to the betterment of the team, company and our users. 
+-Innovative, curious and enjoy participating in the broader tech community to continuously learn and share insights.
+-You think about the end user when you develop and care deeply about how your work will be received by it's intended audience and you strive to create great code that works seamlessly.
+-Ability to work independently and find optimal paths to solutions but you're not afraid to ask for help and consult with peers when you get stuck or want to get feedback.
+-Forward thinking in how you develop and build solutions that take into consideration issues of scaling and growth.  You build for both the immediate need and also ensure that your code is robust for further long term expansion.
+
+Experience
+
+-You've worked on applications that have crossed the threshold of 1M daily active users
+-Strong proficiency in JavaScript
+-2+ years experience React.js and an expert in the core principles involved.
+-4+ years of experience building websites as part of a technical team
+-Strong front-end development skills. You write well-architected HTML, responsive CSS/SCSS, and modern Javascript
+-Experience with commerce and/or payments sites a strong plus
+
+
+Benefits of life @ Fast
+
+*Help eliminate passwords and expand e-commerce worldwide
+*Innovative engineering and product culture
+*Early stage well-funded company in the heart of San Francisco
+*Inclusion and diversity as a company priority 
+*Founders-led companyCompetitive compensation packages 
+*Comprehensive benefits (including 99% of healthcare costs and 401k matching)
+*Additional benefits include gym subsidiaries, onsite meals and commuter benefits

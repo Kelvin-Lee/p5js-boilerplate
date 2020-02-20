@@ -1,0 +1,59 @@
+Software Engineer - Insights
+at GitHub (View all jobs)
+Remote - US / Canada
+
+GitHub is changing the way the world builds software and we want you to help change the way we build GitHub! We're looking for a software engineer to join a passionate, collaborative, distributed group of engineers working on planet-scale products.
+
+How do you define engineering productivity? Can the data we produce while engineering teach us something important about how well we're doing as a team, organization, or community?
+
+The Insights team at GitHub is developing products to help our users better understand engineering patterns and processes. We have an ambitious roadmap and some unique engineering challenges coming up. We're looking for an engineer to help us get to the next level!
+
+Responsibilities:
+
+    Be a core contributor of code on a small team of engineers working across the stack
+    Coordinate with engineering and product leads to help define, prioritize, and task projects that help us meet business objectives
+    Help with code reviews and other collaborative practices to empower the team as a whole
+
+Minimum Qualifications:
+
+    At least three years building single-page web applications in production, with frameworks like React or Angular.
+    Knowledge of CSS best practices for large codebases.
+    Experience with RESTful APIs and/or GraphQL.
+    At least three years of experience translating product requirements, wireframes, and designs into code.
+    Knowledge of testing principles
+    Strong communication skills -- you speak and write clearly. We’re a distributed team so we’re extra mindful about communication
+
+Preferred Qualifications:
+
+    Experience with React
+    Data visualization experience and/or experience dealing with UI scaling challenges
+    Experience building Go applications
+    General database knowledge
+    Experience working remotely in a distributed company
+
+Who We Are:
+
+GitHub is the developer company. Over 40 million people use GitHub to build amazing things together across 100 million repositories. We make it easier for developers to be developers: to work together, to solve challenging problems, to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world.
+
+Leadership Principles:
+
+    Customer Obsessed
+    Trust by Default
+    Ship to Learn
+    Own the Outcome
+    Growth Mindset
+    Global Product, Global Team
+    Anything is Possible
+    Practice Kindness
+
+Why You Should Join:
+
+At GitHub, we constantly strive to create an environment that allows our employees (Hubbers) to do the best work of their lives. We've designed one of the coolest workspaces in San Francisco (HQ), where over half of our Hubbers work, snack, and create daily. The other half of our Hubbers work remotely in 18 countries across the globe.
+
+We are also committed to keeping Hubbers healthy, motivated, focused and creative. We've designed our top-notch benefits program with these goals in mind. In a nutshell, we've built a place where we truly love working, we think you will too.
+
+GitHub is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people of all walks of life. We don't discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!
+
+Please note that benefits vary by country, if you have any questions, please don't hesitate to ask your Talent Partner.
+
+#LI-POST

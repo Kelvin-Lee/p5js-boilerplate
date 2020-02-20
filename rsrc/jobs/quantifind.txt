@@ -1,0 +1,37 @@
+Software Engineering
+Front-end Software Engineer
+Menlo Park, CA
+Who You Are
+
+You are an outstanding Front-end Software Engineer who excels at building modern browser-based JavaScript applications that make Ajax calls to RESTful Microservices. You have worked with client-side JavaScript frameworks such as React or AngularJS. You want to go deeper with client-side technologies to build the next generation of web applications.
+
+You hold yourself to a high standard when it comes to writing clean, performant, and maintainable code. You are productive and deliver high quality front-end software where the separation of concerns is clear and follows architectural best practices. You apply software patterns well and take testing your code seriously. You write unit tests while writing production code rather than as an afterthought. Your code meets the rigorous standards needed for Continuous Integration and Continuous Deployment workflows. 
+
+You care deeply about your work and its impact on your team’s productivity. You work well in cross-functional settings that include User Experience Designers, Product Owners, Data Scientists, and Service Layer Engineers. You are constantly proactive in finding new ways to improve the design, performance, and testing of the software that you and your team build. You value the security of a company with a proven business model and enjoy the opportunities a startup offers.
+
+You have a great work ethic and are able to take on projects from start to finish, either solo or collaborating with other engineers. You inspire the best in your teammates. On a personal note, you are fun to work with; you maintain a positive attitude throughout the Agile Sprint cycle.
+Who We Are
+
+Quantifind is a uniquely positioned data science and human insights company. We use Machine Learning to empower our customers to make better decisions by combining their intuition with insights extracted from vast quantities of unstructured data. We offer marketing decision-makers tools to help them better understand their customers' interests and priorities. We are currently building out a new vertical aimed at financial crimes risk management including anti-money laundering (AML) and fraud detection. The clients in this vertical are data-rich and in search of data-driven advantages in their quest to root out criminal behavior. Our advantage is existing science, engineering, and SaaS product capabilities that align very well with the technology needs. 
+
+To help you succeed, we provide a supportive environment that fosters collaboration between teams and team members, where learning and professional growth are considered a key part of your success, and of ours. We offer a flexible work environment with a family friendly work-life balance, catered lunches three times a week, and fun team activities to keep you healthy, happy, and stress-free.
+What a Great Candidate Looks Like:
+
+    BS or MS in Computer Science
+    Professional software engineer for 2 or more years with a primary focus on front-end development
+    Professional experience at a software startup preferred
+    Professional experience with JavaScript, HTML5, and CSS3
+    Professional experience developing web applications with client-side frameworks such as React or AngularJS
+    Strong UX and design sensibilities and attention to detail
+    Professional experience with server-side JavaScript using Express.js or something similar preferred
+    Professional experience working with MongoDB
+    Professional experience writing unit tests and automated integration tests
+    You enjoy leading by example and helping others understand complex ideas
+
+The Opportunity We Offer
+
+Quantifind is seeking a Front-end Software Engineer for our Front-end team in Menlo Park, CA. You will create browser-based, responsive applications built with reusable Web Components. The Front-end team works closely with our Data Scientists and Platform Engineers to build an interactive product that reveals Machine Learning insights so our clients can take action.
+
+We are an equal opportunity employer.  We pride ourselves on living our values. We are curious. We respect each other. We are proactively transparent. We relentlessly solve problems. We win together.
+
+Will you join us? Apply now!

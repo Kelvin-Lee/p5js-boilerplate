@@ -1,0 +1,48 @@
+Software Engineer
+San Francisco, CA
+Engineering
+Full-time
+At Figma, we tackle a wide range of technical challenges: from designing powerful but accessible features in a complex stateful application, to scaling a realtime web service to hundreds of thousands of users. We work across many stacks and technologies, but we don’t expect anyone to know them all! Most of our engineers specialize in one area of our stack, while still being flexible enough to pick up new languages and make changes across systems when needed. As a member of our team, you’ll have plenty of opportunities to both leverage your existing strengths and learn new skills.
+
+More than anything, we seek engineers with strong coding fundamentals and a track record of high quality engineering. We work in a highly collaborative environment, where most projects are owned by small groups of 2-3 people. We strive to foster a positive, inclusive culture - you can read more about our engineering values on our blog. If you’d like to join us on our mission to make design accessible to all, let’s talk!
+What You'll Do
+
+        Collaborate with designers, PMs, and other engineers to design features and break down high level goals into tasks and timelines
+        Build, document and maintain tests, features and infrastructure
+        Communicate and document architectural designs and requirements
+        Provide thoughtful feedback to others on the team
+        Help interview and recruit more talented engineers to Figma
+
+Minimum Qualifications
+
+        Demonstrated fluency with one or more general purpose programming languages, including but not limited to: C/C++, Objective C, JavaScript, Java, Python, or Ruby
+        Working proficiency and interpersonal skills in verbal and written English
+        Experience in at least one of our areas of focus:
+
+Areas of Focus
+
+        Web application development
+        C++ application development
+        Large software systems development
+        Mobile application development (iOS or Android)
+        Graphics (2D or 3D)Design (either visual design or UX design)
+        Building professional design tools
+
+Benefits
+
+        Competitive salary and equity package
+        Health, dental, vision
+        401k plan with employer contribution
+        Flexible vacation time and generous holiday breaks
+        Culture of learning and development with a training allowance
+        Daily lunches and snacks
+        Pre-tax commuter benefits
+        Cellphone reimbursement
+        Dog-friendly office environment
+
+
+
+About Figma
+Figma is the open design company founded in 2012 by Dylan Field and Evan Wallace. With our cloud-based screen design tool, teams achieve a shared understanding around design without worrying about syncing, exporting or installing software. Anyone involved in the product development process can share always up-to-date files with a link. That makes it easy to collaborate on the latest designs and prototypes and see their code attributes. Figma has simplified collaboration across the entire design process for thousands of companies like Microsoft, Slack and Uber and users, including designers, developers, product managers, marketers and others. To learn more and sign up for a free account visit www.figma.com.
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace. We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national orientation, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. 

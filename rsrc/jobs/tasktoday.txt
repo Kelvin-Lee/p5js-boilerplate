@@ -1,0 +1,33 @@
+Frontend Web Developer (Newark, CA)
+
+Skills Required:
+
+CSS(3), HTML(5), Source Control, Git, JavaScript, jQuery, mockups
+
+Job Description:
+
+If you are a Frontend Web Developer & Designer with experience, please read on!
+
+We are a fast-growing marketing and social ticketing platform that's revolutionizing the live event industry. We’ve developed a patented platform that provides incentives, tracks, and rewards fan engagement, while promoting word-of-mouth marketing for our clients and increasing brand loyalty amongst their fans.
+
+We are looking for a strong frontend web designer/developer. We need a self starter with sharp HTML and CSS skills. We're a fast moving, start up environment with new and exciting challenges around every corner. This is a Design and Development role; you should be comfortable doing both!
+
+What you need for this position:
+
+    A very strong front end developer/designer
+    Ability to write semantic HTML
+    Strong understanding of CSS/CSS3 and modern web design techniques
+    Comfortable working with source control programs such as Git, subversion etc
+    Able to execute and expand upon on mock ups with great attention to detail
+    Strong understanding of JavaScript and jQuery
+    Bonus points for mobile experience
+
+What's in it for you:
+
+    Competitive salary
+    Excellent benefits
+    Fun & Rewarding work environment
+
+So, if you are a Frontend Web Developer & Designer with experience, please apply today!
+
+Must be authorized to work in the United States on a full-time basis for any employer.

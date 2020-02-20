@@ -1,0 +1,59 @@
+About Houzz
+
+Houzz is the leading home renovation and design platform in the world. We have a highly engaged community of over 40 million homeowners who leverage our technologies to find inspiration for their next home project, connect with over 2.5 million home design and remodeling professionals and discover products in the Houzz Shop.
+
+About The Role
+
+As a Front-End Software Engineer, you will be building the UI and infrastructure for our desktop and mobile web platforms with modern tools like React, ES6, Less, Webpack, Babel, and ensure our site works well in a variety of browsers and viewports. We are looking for someone who is self-directed, independent, and has experience owning complete products and features.
+
+What You'll Do
+
+        Architect efficient and reusable front-end components used by all teams
+        Work closely with product designers and product managers to put final projects together
+
+At a Minimum, We'd Like You to Have
+
+        Experience with modern browser technologies
+        Strong UX and design sensibilities, attention to details
+        Substantial experience developing real-world web applications using HTML, CSS, JS
+        B.S., or M.S. in Computer Science or equivalent
+
+Ideally, You'll Also Have
+
+        Analytical thinking and experience with A/B testing
+        3+ years experience
+
+__________________
+
+Be Who You Are and Do What You Love at Houzz
+
+We’re a Family
+
+At Houzz, we strive to create and foster a strong family environment in our workplace. We collaborate to accomplish our goals, always working as a team. We aim to build a culture of inclusion — celebrating and leveraging our differences for the betterment of one another, our products and our community.
+
+Houzz team members come from many backgrounds and bring diverse experiences to the company. We take pride in making each person feel at home.
+
+We Build the Future
+
+Join Houzz in revolutionizing the home remodeling and design industry and have an impact on the more than 40 million homeowners who use our platform every month and the 2.5 million-plus home professionals around the world who are active on the site. Houzz has been named one of the most innovative companies in the world by CNBC and others, and is backed by top venture capitalists. At Houzz, you can help drive the future of an industry worth $1.2 trillion in the U.S. and Europe alone.
+
+We Make Things Happen
+
+Our team members play a key role in guiding the direction of our company and are able to work across multiple groups to implement fresh ideas that allow Houzz to be the industry leader. If you are interested in applying your passion to create products that will transform the lives of millions of people who are designing, remodeling and decorating their homes, welcome to Houzz.
+
+Benefits And Perks
+
+Competitive salary
+Flexible paid time off
+Commuter benefits
+Medical, dental, vision and pet insurance
+Maternity/paternity leave program
+Employee assistance program
+401k retirement savings plan
+Flexible spending accounts
+Healthy at Houzz program
+Catered meals, fully stocked kitchens and much more!
+
+Houzz is an Equal Opportunity Employer.
+
+If you are a California resident applying for a job, you consent to our California Job Applicant Privacy Notice

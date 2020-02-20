@@ -1,0 +1,76 @@
+ Front End Software Engineer
+
+Engineering San Francisco, California
+Apply
+Description
+
+ 
+
+POSITION DESCRIPTION
+
+Software Engineer, Frontend
+
+Talix, Inc.
+
+ 
+
+ 
+
+JOB DESCRIPTION
+
+ 
+
+Do you want to build software that improves patient care? If so, Talix is the place!
+
+Help change the way healthcare works by joining Talix’s engineering team.  Work alongside top developers to enhance our core technologies and conceive, build, and launch new applications that leverage them.  At Talix we help our customers turn mountains of healthcare data into actionable insights using NLP, AI and the most sophisticated taxonomy in the industry.
+
+ 
+
+We are looking for a Front End Software Engineer to build innovative applications that improves patient care.  You will be working on our flagship products and be responsible for building beautiful, usable, and accessible features with modern front-end technology (e.g. React, MobX, TypeScript, Webpack).  You will tackle the challenges of manipulating and visualizing large amount of patient health data across browsers with superior performance and scale.
+
+ 
+
+ 
+
+RESPONSIBILITIES
+
+ 
+
+?       Partner with product managers and backend engineers to build customer facing applications and internal tools.
+
+?       Continuously improve the front-end code base with a focus on testability, maintainability, and performance
+
+?       Contribute to architecture, tools, standards and best practices for the engineering organization
+
+?       Assist with mentoring and hiring great talent
+
+ 
+
+ 
+
+ 
+
+ 
+
+CANDIDATE QUALIFICATIONS
+
+    3 - 5 years of web application development experience
+    2+ years of modern JavaScript framework experience, preferred React or AngularJS
+    Strong understanding of single page application architecture and current best practices
+    Experience building rich data visualization user interfaces
+    Experience with JavaScript testing best practices and methodologies
+    Ability the jump between various levels in the stack for debugging purposes
+    Knowledgeable with JavaScript tools (e.g. Webpack Gulp, Node)
+    Excellent project management skills: self-directed and capable of working effectively in a highly kinetic environment
+    Excellent communication skills: able to facilitate your own meetings as necessary, comfortable working with all levels of the organization
+    Experience with GraphQL preferred but not required
+
+ 
+
+ 
+
+About Talix
+
+ 
+
+Talix delivers intelligent data analytics that enable healthcare organizations to turn structured and unstructured health data into actionable insights that drive improved risk adjustment and better patient outcomes. For more company information, visit talix.com

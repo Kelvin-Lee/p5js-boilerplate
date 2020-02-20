@@ -1,0 +1,36 @@
+Associate Software Engineer, Frontend
+
+In this role you’ll use your extensive knowledge of JavaScript, HTML, and CSS to improve the Slack web client, a complex web-based application used and loved daily by millions of people around the world. You’ll engineer for usability, maintainability, and performance while delighting users by making their working lives simpler, more pleasant, and more productive.
+
+What You Will Be Doing
+
+    You'll brainstorm with Product Managers and Designers to conceptualize new features
+    You'll collaborate with Backend Engineering to build new features for our large-and-growing user base
+    You'll learn about new web technologies and discuss potential solutions to problems
+    You'll help our skilled support team triage bugs and troubleshoot production issues
+
+
+What You Should Have
+
+    1-2 years of practical software development experience
+    Knowledge of client-side JavaScript
+    Knowledge of React and Redux, Lodash, and/or CSS preprocessors like LESS or SASS
+    Knowledge of CSS and HTML
+    Strong communication skills, a positive attitude, and empathy
+    Self-awareness and a desire to continually learn and improve
+
+Bonus Points
+
+    Experience working on consumer facing products
+    The Git workflow, including pull requests, code reviews, and CI/CD systems
+    Any of the technologies we write about on our blog at https://slack.engineering/
+
+Slack is where work happens. It connects you with the people and apps you work with every day, no matter where you are or what you do. We believe everyone deserves to work in a welcoming, respectful, and empathetic culture. We live by our values and hire accordingly.
+
+Slack is an Equal Opportunity Employer and participant in the U.S. Federal E-Verify program. Women, minorities, individuals with disabilities and protected veterans are encouraged to apply. Slack will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance.
+
+Slack is a layer of the business technology stack that brings together people, data, and applications – a single place where people can effectively work together, find important information, and access hundreds of thousands of critical applications and services to do their best work. From global Fortune 100 companies to corner markets, businesses and teams of all kinds use Slack to bring the right people together with all the right information. Slack is headquartered in San Francisco, CA and has ten offices around the world. For more information on how Slack makes teams better connected, visit slack.com.
+
+Ensuring a diverse and inclusive workplace where we learn from each other is core to Slack’s values. We welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work.
+
+Come do the best work of your life here at Slack.

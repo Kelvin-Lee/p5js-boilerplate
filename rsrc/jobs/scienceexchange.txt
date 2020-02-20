@@ -1,0 +1,28 @@
+Front-End Software Engineer
+Palo Alto
+Engineering
+Full-time
+Science Exchange is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, disability or genetic information, sex, sexual orientation, gender identity, or national origin.
+
+Science Exchange is a fast-growing company on a mission to enable breakthrough scientific research. We connect researchers and service providers through our online marketplace and hands-on concierge service, and promote  scientific collaboration that will help improve the quality and efficiency of research. Our headquarters are in Palo Alto, California, but we are a truly global company with employees all over the U.S., Europe and Asia/Pacific.
+
+How We Work
+Our primary application is a classic Ruby on Rails codebase, with a little bit of React.js mixed in and a whole lot of jQuery. We write tests for our code, and use continuous integration/delivery (with Circle CI) with feature flagging to safely deploy (to Heroku) multiple times a day. We follow “Agile” Scrum methodology, but aren’t dogmatic about it - it just happens to work well for us. We track sprints in JIRA, have brief but effective daily stand-ups, and review each other’s code on Github.
+
+We’ve worked hard to build a culture of collaboration, respect, and mutual support. We load-balance when needed and without judgement; we attend conferences and present new ideas, technologies and tools to each other as we discover them. We work smart enough to avoid late nights and long work weeks, but we don’t shy away from putting in extra hours when a critical mission requires it. We take time off to recharge when we need to.
+What You'll Do
+
+        Take ownership over the code that users interact with the most: our Javascript, HTML and CSS
+        Institute patterns and best practices that ensure the future maintainability of front-end code
+        Improve front-end performance for our usersImprove our front-end test coverage
+        Work with back-end/full-stack teammates to execute on user stories presented by the product team
+
+What You Bring
+
+        At least 3 years of professional experience with web applications
+        Experience with React.js, Ember.js, Angular, Vue.js, or other Javascript frameworks
+        Experience with Yarn, NPM, Bower and other package managers and tooling
+        Familiarity with SCSS, LESS, and methodologies like BEM
+        Familiarity with UI kits like Bootstrap, Foundation, or Material Design
+        Experience in a startup environment
+        Enough of an eye for design to improvise on existing design standards and patterns

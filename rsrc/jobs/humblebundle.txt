@@ -1,0 +1,29 @@
+ Software Engineer - Humble Bundle
+
+Engineering San Francisco, California
+Apply
+Description
+Position at Humble Bundle
+
+Humble Bundle sells games, ebooks, software, and other digital content. Our mission is to support charity while providing awesome content to customers at great prices. We launched in 2010 with a single two-week Humble Indie Bundle, but we have humbly grown into a store full of games and bundles, a subscription service, a game publisher, and more. We have raised over $160 million for charity and counting.
+
+Humble Bundle is seeking outstanding full-stack web developers to join our team. As part of our Subscription Engineering team, you'll work closely with a team of Designers, Product Managers, and other Engineers to build fantastic new features for our flagship product Humble Choice. You'll use a variety of modern technologies on the front-end (i.e. ES6 Javascript, Backbone + Marionette) and back-end (i.e. Google Cloud Platform) to deliver features that are robust, scalable, and performant. Your work will immediately impact our customer base who have helped us in raising over $160M for amazing charities like the Red Cross, Child's Play, and EFF.
+
+This is an on-site position at our office in San Francisco.  
+
+Requirements
+
+    1+ year of professional experience developing customer facing websites in a team environment
+    Ability to write clean and performant code
+    Proficiency in Python or JavaScript (knowing both is a bonus)
+
+Nice to have
+
+    Knowledge of Google AppEngine or Google Cloud Datastore
+    Experience with databases
+    Experience working on e-commerce websites
+    Experience in data engineering
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+*We are an Equal Opportunity Employer.

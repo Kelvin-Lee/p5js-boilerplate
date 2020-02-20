@@ -1,0 +1,94 @@
+Software Engineer
+Triplebyte
+-
+San Francisco, CA 94105
+Responded to 75% or more applications in the past 30 days, typically within 1 day.
+Urgently hiring
+
+About Triplebyte
+Triplebyte helps companies find and hire great technical talent. For any company building software, this is crucial for success. A recent survey of top C-Level Executives, across multiple industries, showed that software, R&D and recruiting technical talent are the top areas they are planning increased investment and budget over the next 5 years. Companies like Apple, Dropbox and American Express trust Triplebyte’s online technical assessment to identify the best engineers for their open roles and reduce the time and effort it takes to hire them.
+
+We just raised a $35 million Series B and our team of 40 will double in size during 2019. Now is a great time to join as we're on an exciting growth trajectory. You will have lots of opportunity for taking on responsibility and developing new skills quickly.
+
+We have built Machine Learning models that predict the likelihood of an engineer getting an offer from a particular company. Interviewing and assessing engineering talent tends to be noisy, but our technical assessment has proven to be good enough to extract meaningful signals. We collect data on interview results and in-house evaluations, which gives us a unique dataset to play with. We've used that data to deliver a 40% conversion rate on our candidates at interview to offer, compared to the industry standard 20%.
+
+Our mission is to create a scientific method for identifying great talent and intelligently route it to the best place, streamlining and speeding up the recruitment process, while removing human biases that can hold back some candidates.
+
+We're an experienced team, the founders have each built and sold companies before. Ammon and Guillaume founded Socialcam (acquired by Autodesk for $60 million) and Harj was the first partner hired at Y Combinator since its founding.
+
+Building the best product
+We are rapidly growing our engineering team, we are looking for generalist, full-stack, frontend, backend, machine learning, and dev-ops engineers! The Triplebyte engineering team is still rather small, only 8 people. We all went through the Triplebyte process : )
+
+We move fast, release new features daily and iterate quickly. Triplebyte is growing very quickly and the engineering team is fully dedicated to supporting that growth, in any way we can.
+
+We are a generalist engineering team, we work on anything that helps the company or other teams grow. We cycle through backend, full-stack and frontend work based on the most critical needs. All of us are encouraged to work on all those parts.
+
+Our frontend is mostly in React/Redux.
+Our backend is in Ruby on Rails, Postgres and Redis. (We also use python with Tensorflow for all our data science work)
+
+It doesn't seem like it, but we have built a LOT of software. We are a truly full-stack company and we are building a process that needs to be perfect ends to ends. We have software for engineers, for interviewers, for writers, for companies, for us, etc..If that's any indication of scale, we crossed recently the 200 tables in our Postgres database : )
+
+Join us and help us build the best product! We value initiative, productivity, and ownership.
+
+Compensation and Benefits
+Competitive salary and stock options package
+Open vacation policy
+Employer paid health, vision and dental insurance
+401(k) plan with matching
+Pre-tax commuter benefits
+Daily catered lunches
+
+Our Mission
+We believe strongly in building a truly meritocratic, unbiased process for finding great talent. Even the best technology companies today still use where people went to college as a proxy for intelligence and ability. We're building a process that looks only at ability, not credentials, so we can have a future where everyone can focus on just learning and being good at what they do, not how they look on paper.
+
+Every aspect of running a company has been improved over the last decade, except hiring. Most decisions are still made using amorphous terms like "gut feel" or "culture fit". They should be made using crisp data. Only a company specializing on this problem, using data collected from the hiring process at hundreds of companies, can solve it. That's the company we're building. Our mission is creating a scientific method for identifying great talent and intelligently routing it to the best place. Starting with software engineers.
+
+Job Type: Full-time
+
+Salary: $125,000.00 to $190,000.00 /year
+
+Additional Compensation:
+
+    Other forms
+
+Work Location:
+
+    One location
+    Fully Remote
+
+Benefits:
+
+    Health insurance
+    Dental insurance
+    Vision insurance
+    Retirement plan
+    Paid time off
+    Flexible schedule
+    Parental leave
+    Relocation assistance
+    Professional development assistance
+
+This Job Is Ideal for Someone Who Is:
+
+    Achievement-oriented -- enjoys taking on challenges, even if they might fail
+    Innovative -- prefers working in unconventional ways or on tasks that require creativity
+    Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+
+This Company Describes Its Culture as:
+
+    People-oriented -- supportive and fairness-focused
+    Team-oriented -- cooperative and collaborative
+    Innovative -- innovative and risk-taking
+
+This Job Is:
+
+    Open to applicants who do not have a high school diploma/GED
+    A job for which all ages, including older job seekers, are encouraged to apply
+    Open to applicants who do not have a college diploma
+    A job for which people with disabilities are encouraged to apply
+    A good fit for applicants with gaps in their resume, or who have been out of the workforce for the past 6 months or more
+    A good job for someone just entering the workforce or returning to the workforce with limited experience and education
+
+Company's Facebook page:
+
+    https://www.facebook.com/triplebyte/

@@ -1,0 +1,36 @@
+Front End Engineer
+Engineering, San Francisco, CA
+About the role:
+
+At Fandom, we put fans first. As the largest entertainment site with over 200 million monthly uniques, we are excited in taking the next steps in becoming a truly integral part of the entertainment fan experience—not only by accelerating the creation of the reference content we are known for, but also by helping fellow fans connect over their passions through new avenues of content creation while aiding the discovery of their next favorite entertainment titles.
+
+Frontend engineers at Fandom work on the latest user-facing features to serve our global audience of 200 million monthly uniques. The team builds frontend applications that can scale and serve diverse use-cases for our audience. The team moves rapidly with the latest tools and is seeking help to allow us to work on more projects. 
+You have…
+
+ 
+
+    3+ years of experience with the full web stack, including protocols and web server optimization techniques.
+    A solid understanding of core web and browser concepts (eg. how the browser parses and constructs a web page)
+    A solid understanding of semantic HTML, CSS, and core JavaScript concepts.
+    Professional experience with ReactJS or another modern JavaScript web framework (Vue, Angular, Ember, etc)
+    Experience developing user-facing software.
+    Experience with writing automated tests (eg. Jest, Karma, Jasmine, Mocha, AVA, tape)
+
+Bonus points if you have: 
+
+    A strong sense of web design and attuned to the fundamentals of user experience.
+    Experience with the latest and greatest web standards, including fetch, service workers, etc. 
+    Experience with bundling tools (webpack, rollup, parcel, etc)
+    Scripting experience (python or node.js)
+    Familiarity with a backend language (Java, PHP, Node.js)
+    Familiarity with Jenkins or other CI
+    Familiarity with testing methodologies (unit, integration, happy paths)
+
+Benefits & Perks:
+
+Medical, dental, and vision benefits, company paid short-term and long-term disability, company paid life insurance, stock options, 401k match, gym reimbursement, unlimited time-off, annual training budget per employee, pre-tax benefit options (including Flexible Spending Accounts, Healthcare Savings Accounts and Commuter Benefits), biweekly office lunches and periodic happy hours, full pantry complete with coffee, a variety of drinks, cookies and healthy food options, flexible working hours, international work environment with start-up culture and easily accessible by public transportation. 
+About Fandom:
+
+Fandom is a global entertainment media brand powered by fan passion. The fan-trusted source in entertainment, Fandom provides a home to explore, contribute to, and celebrate the world of pop culture. Whether looking for in-depth information on favorite fandoms or what’s buzzing in entertainment, Fandom has your pop culture curiosities covered through fan-expert knowledge and carefully curated and fun, original multi-platform content.
+
+Fandom has a global audience of over 200 million monthly unique visits and encompasses over 400,000 fan communities. We currently feature more than 55 million pages of content, inclusive of video.

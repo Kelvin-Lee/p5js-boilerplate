@@ -1,0 +1,51 @@
+Role: Front-End Developer
+
+Duration: 15-month contract
+
+Location: Sunnyvale CA
+
+
+
+Our Company Bio: Bayside Solutions was founded in 2001, Bayside was recognized as one of the fastest growing professional staffing companies in Northern California. The numbers tell the story: We have close to a 100% client retention rate, 700% growth in four plus years and over 95% repeat business. Our dedication to building partnership relationships with both our clients and our recruits is the key to our phenomenal success.
+
+
+
+SUMMARY:
+
+Bayside Solutions is looking for a Front-End Developer to support several new and exciting projects for our client in Sunnyvale CA. The ideal candidate will be part of an integrated on-site team - including production artists, web designers and technologists - creating highly interactive and engaging work for our high-profile client.
+
+
+
+PRIMARY SKILLS INCLUDE BUT ARE NOT LIMITED TO
+
+    Be part of a dynamic project development team, that creates visually engaging product websites.
+    Create responsive HTML pages from design comps.
+    Create CSS layout and animations, ensuring legacy browser support.
+    Work with developers, designers, and project leaders to ensure code quality and design fidelity.
+    Develop and optimize build tools and development systems to support ongoing projects.
+
+
+
+QUALIFICATIONS:
+
+    Ability to hand-code elegantly efficient HTML/CSS/JavaScript.
+    Aware of the interplay between JavaScript and HTML & CSS, and can dynamically create, modify, and style elements on a page with ease* Experience building responsive and/or mobile-first websites.
+    Mid-level JavaScript knowledge (not relying on libraries!)
+    Some experience using and writing templates (Handlebars, etc).
+    Comfortable with package managers/build systems such as NPM, Gulp, or Grunt.
+    Extensive experience debugging cross-browser/cross-platform compatibility issues.
+    High attention to detail to maintain design integrity throughout the build process.
+    Ability to implement well-structured Sass for maximum CSS maintainability.
+    Adherence to W3C standards and specifications.
+    Proficiency in version control systems such as Git (Subversion experience a plus).
+    General proficiency in Photoshop.
+    Excellent communication and problem-solving skills.
+    Ability to clearly and professionally interact with clients.
+    Localization experience is a plus.
+    Knowledge of accessibility specifications is a plus.
+
+
+
+EDUCATION:
+
+    Bachelor's degree, or equivalent experience

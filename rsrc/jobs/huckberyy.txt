@@ -1,0 +1,47 @@
+We are looking for an eager, proactive, early-career software developer to join our small & agile team. If you are excited to dive in and make a meaningful impact, we’d love to hear from you.
+
+You’ll work directly with our Product Manager and engineering team to build new features and enhance onsite customer experience. Some of the customer-facing projects we’ve recently worked on include: adding Apple Pay to our site, integrating with Happy Returns, and transitioning our frontend to React and Redux.
+
+In this role, you’ll also work closely with nontechnical folks at Huckberry to improve our backend data management system, streamlining the workflows of our in-house photographers, writers, marketers, and merchandisers. The ideal candidate will be empathetic to our content creators and able to brainstorm solutions to their roadblocks, so that they can launch new, snappy campaigns that bring perspective to our products.
+
+Qualifications
+
+    1-3 years of experience
+    Bachelor’s degree in CS, graduate of a coding bootcamp, or related experience
+    Familiarity with two or more of the following technologies we use (in no particular order):
+    Ruby / Ruby on Rails
+    Javascript / ES6
+    React
+    Redux
+    CSS / SCSS
+    Git
+    Practical yet ambitious – ability to break down tasks into manageable chunks, differentiate between must-haves versus nice-to-haves, handle uncertainty, and see projects through to their completion
+
+Please note, Huckberry is not sponsoring employment or student visas at this time.
+
+Bonus Points If
+
+    You’ve read POODR or Eloquent Javascript
+    You send a code sample or project you’ve worked on recently
+    You have experience or interest in pair programming
+    You write a cover letter introducing yourself and explaining why you’d be a great fit
+
+Company Description
+
+Here at Huckberry, we're building the 21st century men's retailer. We’re on a mission to inspire and equip adventures near and far, and along the way create the most loved men’s retailer on the planet. We were recently named one of IAB's most disruptive consumer brands of 2019, and are only just getting started.
+
+Huckberry was bootstrapped from a $20k personal investment in 2011 from co-founders Richard Greiner and Andy Forch to over 70 employees before raising its first outside capital in 2017. Today, we’re still independent and headquartered in San Francisco, California with offices in Columbus, Ohio. Our investors all started as customers, and include members of the Nordstrom family, Simon family, Hormel family, and #1 New York Times best-selling author Tim Ferriss.
+
+Our mission of inspiring and equipping adventures is at the core of everything we do. That's why in addition to competitive market salaries and benefits, we have a generous vacation policy, a sabbatical program (recent employee trips include a surf and yoga retreat in Morocco, dog sledding in Norway et al.), summer "See You Out There" Fridays, white water rafting trips, and, of course, loads of free gear.
+
+Additional Information
+
+Journal: https://huckberry.com/journal
+
+Facebook: https://www.facebook.com/Huckberry
+
+Instagram: http://instagram.com/huckberry
+
+Twitter: https://twitter.com/Huckberry
+
+Huckberry encourages candidates of all different backgrounds and identities to apply. We are always eager to further diversify our company, and we are committed to providing an inclusive environment of mutual respect where all can flourish. All of our employment decisions are based solely on merit and business need.

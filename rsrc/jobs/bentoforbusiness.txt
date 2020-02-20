@@ -1,0 +1,35 @@
+Senior Front End Engineer
+San Francisco, CA
+Engineering
+Full-time
+At Bento, we believe there’s a better way for businesses to manage and control employee expenses. This is a rare opportunity to get in on the ground floor of the next big fintech startup that’s backed by top tier VCs and founders with a proven track record of success.
+
+If you are a talented engineer who thrives in a fast-growing environment, and if you are passionate about building highly scalable systems with intuitive experience that users will love, we’d love to talk to you. At Bento, every engineer is responsible for delivering high-quality code and shaping the next stage of evolution in payments and financial services. Join us to learn and grow together and make a real difference.
+RESPONSIBILITIES
+
+        Architect, design and develop critical features and components
+        Collaborate with engineers, product managers, and designers to create and build beautiful apps and experiences
+        Identify and select the right tools and frameworks for the job
+        Collaborate across the organization to build and evolve platform and application capabilities with the technical vision and product and business needs
+        Implement automated testing suite for functional and performance testing
+        Be an owner and a champion of user experience
+
+SKILLS & COMPETENCIES REQUIRED
+
+        Experience building modern JavaScript applications using frameworks such as React or Angular
+        Strong UX and design sensibilities and a desire to perfect the details
+        Proficiency with HTML5, CSS3, and build systems such as Gulp and Webpack
+        Experience working with RESTful APIs
+        Experience working with cloud-based infrastructure using AWS
+        Experience in financial services, payments, processing, and/or small and medium businesses is a plus
+        BS in Computer Science or Engineering or related discipline or equivalent work experience
+
+ABOUT BENTO:
+We’re a startup that truly cares about its people. We have a responsibility-based culture with flexible working hours, comprehensive medical & dental benefits, commuter & FSA benefits, equity participation, unlimited vacation and most of all, the opportunity to make a huge impact in a venture with huge potential.
+
+Come join us!
+
+WHO SHOULD APPLY:
+Proactive, goal-oriented individuals who take pride in what they do
+Entrepreneurial and intellectually curious people
+Engineers interested in learning financial technology and payments

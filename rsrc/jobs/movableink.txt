@@ -1,0 +1,26 @@
+
+
+Movable Ink is a software company that provides marketers with technology and expert services to create unique customer experiences. Founded in 2010, Movable Ink pioneered contextual experiences in email and has powered over 1.5 trillion content impressions worldwide. More than 700 of the world’s most innovative brands rely on Movable Ink to create unique, relevant, and compelling visual experiences across email and web at the moment of engagement.
+
+In this role you’ll use Javascript, HTML and CSS to lead engineering efforts that focus on usability, performance, and maintainability. Your expertise will supercharge the Solutions Engineering team and ensure all projects meet best practices.
+
+Fast forward one year. Here’s what you will have accomplished:
+
+    Worked with Client Experience Managers to scope customer projects and translate them into technical requirements
+    Work independently to customize, implement, and test client-specific Apps for the Movable Ink platform
+
+Basic Qualifications
+
+    Bachelor's degree in Computer Science, Engineering or equivalent work experience
+    1+ years of experience writing client-side technologies (JavaScript, CSS, HTML)
+    Understanding of the Git workflow, including pull requests, code reviews
+    Experience building pixel-perfect front-end HTML against Photoshop documents
+
+Preferred Qualifications
+
+    UX and design sensibilities
+    Self-awareness, a positive attitude and empathy
+
+Apply for this position
+
+Movable Ink provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability or genetics. In addition to federal law requirements, Movable Ink complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

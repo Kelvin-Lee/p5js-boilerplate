@@ -1,0 +1,40 @@
+Software Engineer - Internal Tools
+Company Name Caffeine Company Location
+Redwood City, CA, US
+
+Posted Date Posted 1 month ago Number of applicants
+
+Be among the first 25 applicants
+Share
+Show more options
+
+At Caffeine, we want to change how people consume live television - making it more friendly, connected, and fun. To do this, we’re building a new social broadcasting platform that features world-class content, easy-to-use broadcasting tools, a social and fun viewing experience, and an engaged broadcaster community.
+
+This is an exciting and enormous challenge, and we will only be successful if we build a supportive and collaborative team. Our teams prioritize delighting our community of viewers and broadcasters, working with intention, taking ownership of our commitments, and acting with resilience and determination—all with the intention to ship greatness, always.
+
+The Partner Engineering team supports the Content & Business Development teams, ensuring broadcasts run smoothly and partners get what they need to be successful. We anticipate partner needs, have a solid understanding of the product and Caffeine’s video distribution platform, and use that knowledge to solve live production problems and communicate across teams.
+
+What You'll Do
+
+        Design, build, and maintain internal tools.
+        You will build monitoring tools to help identify issues with creator broadcasts.
+        Integrate with existing internal and external APIs to build tools for managing our backend systems.
+        Build intelligence and logic around these tools to automate and improve efficiency where possible.
+        Create basic internal facing GUIs for your tools to be used.
+        You will work cross-functionality with our Partner Engineering, Partner Management and Engineering teams to build the best experience possible.
+        You will build software that is scalable, extensible, maintainable and observable.
+        Document your designs and review those with Engineering Leadership.
+
+Who You Are & What You've Done
+
+        3+ years of engineering experience working with APIs and Services.
+        Able to work well on your own but still write code that can be used and consumed by others.
+        Experience with CI/CD, build pipeline and automation.
+        Experience with React or some other web UI system.
+        Ability to learn and understand new technologies/languages quickly; we currently use Golang, JavaScript, Ruby, Python, but we use whatever tool is required to get the job done right.
+        Experience working in modern containerization technologies like Docker and Kubernetes.
+        Experience building software in cloud such as AWS or GCP.
+        Experience working with Datadog and AWS media services live is a plus.
+        Experience building serverless applications is a bonus.
+
+We are committed to an inclusive and diverse Caffeine. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer. 

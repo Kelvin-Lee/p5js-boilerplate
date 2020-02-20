@@ -1,0 +1,26 @@
+Software Engineer
+
+Job ID: 958047 | Twitch Interactive, Inc.
+DESCRIPTION
+
+The Twitch Extensions team is looking looking for engineers for our San Francisco office who love delighting customers with great products and seamless user experiences. The release of the Content Enhanced Extensions has increased engagement and joy among our broadcasters and viewers. You’ll work closely with product managers, UX designers, data scientists and engineers of all disciplines to take our product to new heights. You’ll take part in maturing our product by creating great interfaces for developers to leverage in the pursuit of building great experiences. There are significant engineering challenges which involve scale, availability, cross-platform compatibility, and the push to create and evolve a new viewing experience for all. Your work will be the foundation by which developers and broadcasters are able to bring joy to their viewers and consumers. Bring your hard hat, a learning mindset and sense of humor - we’re looking forward to meeting you.
+Responsibilities
+· Design and implement core functionality in the Extensions experience.
+· Brainstorm with designers and product managers to design new features for our viewers.
+· Collaborate with other engineering teams and advise and assist them in making our products better.
+· Work with internal and external teams to provide the best javascript capabilities for our extensions.
+· Identify and uphold engineering best practices
+· Research new technologies for mobile web and other emerging platforms at Twitch.
+
+BASIC QUALIFICATIONS
+
+· 2+ years of web development experience.
+· Experience with React and a good understanding of CSS
+· Demonstrated experience and passion for delivering high quality user experiences.
+· Experience collaborating with product managers, designers, and other engineering leaders in cross-functional groups.
+· Strong organizational and communication skills
+PREFERRED QUALIFICATIONS
+
+· Experience with React, GraphQL, Jest/Enzyme and/or Typescript
+· Experience with Javascript tooling
+· Experience building Javascript libraries

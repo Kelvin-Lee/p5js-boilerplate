@@ -1,0 +1,51 @@
+At Lyft, community is what we are and it’s what we do. It’s what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring.
+
+Frontend Engineers at Lyft build and own innovative web applications using advanced JavaScript, React and Sass, with a desire to achieve exceptional design fidelity, usability, accessibility, and performance across both desktop and mobile browsers.
+
+Projects will require close collaboration with other teams and orgs, working closely with creative and product designers, other engineers and stakeholders. These projects may occur simultaneously, so you must be able to juggle multiple concurrent initiatives. We will also expect you to champion sound frontend standards to engineers, designers, and management.
+Our company moves at an extremely fast pace and is always evolving. Being adaptable to change is a necessity and so is having a great attitude.
+
+Responsibilities
+
+    Be part of an inclusive, collaborative team that embraces pairing, healthy discussions and supports each other in their goals
+    Collaborate with cross functional teams on new and emerging technologies, determining how they will integrate into current and evolving infrastructure
+    Unblock, support and effectively communicate cross functionally in order to achieve results
+    Help define the team roadmap and architecture based on technology and business needs
+    Evangelize appropriate tech and engineering best practices, and occasionally give internal or external tech talks
+    Leave the code in a better state than when you found it (progressive refactor)
+    Participate in code reviews to ensure code quality and distribute knowledge
+    Go home knowing that your work today is meaningfully improving the lives of every Lyft driver and rider
+
+
+Experience
+
+    Must have 5+ years of software engineering industry experience\
+    Advanced knowledge of JavaScript, CSS, and HTML
+    Experience working with modern JavaScript frameworks, like React
+    Experience working with NodeJS and Express applications
+    Experience working with design systems (e.g. Bootstrap, Salesforce Lightning, GitHub Primer)
+    Experience with unit, integration, and end-to-end testing
+    Experience working cross-functionally with Product and Design
+    Good understanding of web performance and how browsers and DOM work
+
+
+Nice-to-haves
+
+    Experience building design systems (e.g. Bootstrap, Salesforce Lightning, GitHub Primer)
+    Experience architecting efficient and reusable frontend web components
+    Experience with web asset optimization and content delivery networks
+    Experience with frontend testing, build and transpilation tools, such as Webpack, ESLint, Babel, Jest, Sass, WebDriver
+    Familiarity with Docker and containerized computing
+    Proficiency with TypeScript, Python or Go
+
+
+Benefits
+
+    Great medical, dental, and vision insurance options
+    In addition to 11 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
+    401(k) plan to help save for your future
+    18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+    Monthly commuter subsidy to cover your transit to work
+    20% off all Lyft rides
+
+Lyft is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Lyft does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Pursuant to the San Francisco Fair Chance Ordinance and other similar state laws and local ordinances, and its internal policy, Lyft will also consider for employment qualified applicants with arrest and conviction records.

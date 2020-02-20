@@ -1,0 +1,43 @@
+
+Front End Engineer
+at Chime (View all jobs)
+San Francisco Office
+
+Chime is the largest and fastest-growing player in the challenger-banking space, providing mobile and online banking technology in the U.S. and facilitating over 5M accounts with no physical branches. We’re a technology company relentlessly focused on helping our members achieve financial peace of mind. That’s why we offer access to an award-winning bank account that doesn’t charge hidden fees, can give members early access to their paychecks, and enables them to grow their savings automatically.  And we’re just getting started. We are proud of our mission, devoted to our members, and passionate about applying technology to the challenge of making financial health a reality for everyone.
+
+We have one of the most experienced management teams in Fintech and have raised over $800M in funding from DST, General Atlantic, Iconiq, Coatue, Dragoneer, Menlo, Access, Forerunner, and others. If you’re looking to join a fast-growing company with a beloved, daily-use product and an authentic mission that puts people first, we want to meet you.
+About the Role
+ 
+We are looking for a Front End Engineer with 4+ years of development experience. The core language of development in the role will require a solid knowledge with React.js. As a member of our Engineering team, you'll be working on member-facing products, back-end automation, and complex user segmentation projects. Don’t worry about having worked on these kinds of things before – just bring your curiosity and a growth mindset to the job.
+ 
+Responsibilities
+
+    Design, develop, test, refactor, and scale new and existing internal tools
+    Design, develop, test, refactor, and scale consumer-facing product features that improve the interaction between our members and our colleagues in Risk and in Member Services
+    Develop thoroughly tested code 
+    Participate in code reviews and thoughtfully provide constructive feedback
+    Collaborate effectively with other technology teams and architects to solve complex problems spanning their respective areas
+    Mentor up-and-coming developers
+
+Requirements
+
+    2+ years of React.js experience
+    4+ years of experience as a front-end developer
+    Ability to work collaboratively to deliver quickly with a plan to iterate
+    When faced with a hard problem you can break it down into digestible pieces; when you get stuck you're open and willing ask for guidance
+    You're helpful -- when a teammate needs a hand, you'll raise yours
+    You understand that we do our best work when we communicate with each other
+    You're interested in mentoring -- as our teams grow, you'll help nurture and guide incoming developers
+    You’re ready to learn -- not only will you get to know FinTech, we’re looking for engineers who work to improve their craft
+    BS/MS/PHD in Computer Science or a related field (ideal)
+
+ What we offer
+
+    Competitive salary based on experience, medical and dental benefits, as well as a 401k match
+    Free snacks and drinks, plus weekly catered lunches.
+    Flexible vacation policy.
+    Monthly happy hours and company events.
+    Dog-friendly office.
+    A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help create a completely new kind of bank.
+
+We know great work isn’t done alone. We’re building a team of individuals to Chime in with their different strengths to benefit our employees and members. We strongly believe that different backgrounds and ideas are a competitive advantage; we hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. If you have a disability or special need that requires accommodation, please let us know.To learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy Notice. 

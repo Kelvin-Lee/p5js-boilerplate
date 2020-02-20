@@ -1,0 +1,32 @@
+Software Engineer, Headspace for Work
+San Francisco
+Engineering
+Full-Time
+About the Software Engineer at Headspace:
+
+Headspace is seeking a Software Engineer to join its H4W Team and be responsible for building out great web experiences for our growing number of business partners. As part of the H4W  team, you'll be tasked with prototyping, architecting, and executing on the creation of our H4W platform, and be integral in the platform's continued growth. We are open to both full stack or back end focused candidates.
+How your skills and passion will come to life at Headspace:
+
+        Create beautiful, engaging single page web applications in React/Redux
+        This position will be heavier on the front-end  side of things but most certainly welcome to shift priorities on the backend as sometimes it is needed
+        Collaborate with cross-functional teams to define, design, and ship new features
+        Work on new and existing features
+        Unit-test code for robustness, including edge cases, usability, and general reliability
+        Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+
+What you’ve accomplished:
+
+        3+ years of experience in software development
+        Bachelor’s degree in computer science or related experience
+        Proficiency in JavaScript both Web and Node.JS
+        React/Redux or (any modern framework) and JavaScript ecosystem
+        Exposure to alerting and monitoring 
+        Experience with testing - Unit tests best practices,  E2E-tests ( We are responsible to test what we ship )
+        Able to decide when to move fast and when to slow down on a project
+        Self starter, can do attitude, team player and overall sense of ownership
+
+
+
+How to get started:
+
+If you’re excited by the idea of seeing yourself in this role at Headspace, please apply with your CV and a cover letter that best expresses your interest and unique qualifications.

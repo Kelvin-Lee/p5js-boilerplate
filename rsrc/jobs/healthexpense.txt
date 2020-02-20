@@ -1,0 +1,38 @@
+HealthExpense (http://www.healthexpense.com) is looking for a Front-end Web Developer to help us build the next great healthcare technology startup. If you are interested in joining a dynamic early-stage startup that is already seeing significant traction — there are already 1M+ employees using our platform — we’d love to talk to you.
+
+What You Will Do
+
+The Front-end Web Developer works collaboratively with our engineers and business teams to create and maintain health plan client- and member-facing web applications. You will design, build, and maintain secure HIPAA-compliant web applications in a highly scalable and available ecosystem.
+
+In This Role You Will
+
+    Design, build, and maintain client and member facing web applications according to technical specifications (JavaScript, HTML5, JQuery, CSS, ReactJS)
+    Implement security and data protection for HIPAA-compliant application interfaces for healthcare clients and members
+    Create and maintain unit tests for new code and defect fixes
+    Participate in continuous integration for automated builds and deployments (Jenkins or equivalent)
+    Ensure deliverables meet functional and design specifications and requirements; and
+    Tackle other duties that pop up … we’re a startup after all.
+
+What We’re Looking For
+
+We are looking for candidates with:
+
+    At least 3-5 years of experience in web application software development, design, and architecture (and more is better)
+    A solid track record of building elegant and sophisticated web applications that users love to use
+    Front End skill set (e.g. JavaScript, HTML5, JQuery, CSS, ReactJS)
+    Proficient understanding of PureScript, ReactJS, or equivalent
+    Excellent written and verbal communication, including technical writing skills; and
+    Proficient understanding of code versioning tools, such as Git.
+    A solid academic background (or equivalent experience). Degrees in Information Systems, Computer Science or a closely related field are preferred
+
+In healthcare, $600B (that's a B) is wasted every year. The HealthExpense (http://www.healthexpense.com) platform -- think "Mint for healthcare" -- helps consumers and benefits administrators make the most of their healthcare dollars, tackling the mundane and often unnecessarily-complicated tasks like submitting insurance reimbursement claims, paying bills, and tracking deductibles and flex-spending caps. Our fast-growing network is quickly becoming the platform of choice for large employers and third-party administrators, and we're already helping over 1M employees make better and more cost-effective healthcare decisions.
+
+A Few Key Details
+
+    We're well-funded and stable: we offer great salaries, medical/dental/vision coverages, and generous bonuses.
+    We're off to great start. Our platform is already in use by millions, and we're just getting started.
+    You can do great things here. We're still a small team -- there are plenty of meaty challenges to tackle and opportunity to make a real impact.
+    We set you up for success: We never skimp on best hardware or tools money can buy.
+    We want you to share in our success. Every offer includes a healthy dose of stock options.
+    We're building for the long-term. Our key executives have been around the block, and understand the importance (and sustainability) of true work-life balance. We work hard and smart, and also manage to have real lives outside the office.
+    We're located in sunny Sunnyvale, California.

@@ -1,0 +1,47 @@
+Front End Software Engineer
+Mantle, Inc.
+-
+San Francisco, CA
+Who We Are:
+An early-stage startup, Mantle is bringing manufacturing back to local communities. How? Through metal additive manufacturing an order of magnitude less complicated and lower cost than existing printers. Today, popular metal 3D printers cost half a million dollars or more and use complicated high-powered lasers and controlled atmospheres. At Mantle, we're taking an entirely different approach that uses proprietary materials science and machine design to make metal 3D printing easier, simpler and less expensive than previously imaginable. To put it simply, we believe our technology will fundamentally change how metal parts are made.
+
+This is an opportunity for you to join a dedicated team of engineers and scientists passionate about manufacturing innovation. We see technical challenges as opportunities, and through teamwork we find creative solutions. Are you passionate about collaborating towards goals? Then we encourage you to apply.
+
+The Mantle office is located in San Francisco, CA and is walking distance to BART and Caltrain. We offer a great compensation package: 401k, medical, dental and vision insurance, stock options, and commuter benefits.
+
+Who We're Looking for:
+Do you like to create Software for disruptive technology? Are you interested in working on cutting-edge machine development? We're looking for a Front-End Software Engineer to work on Intelligent, Multi-Functional Software Systems at the heart of a Metal 3D Printer. We need someone to contribute to the development of Machine UI for modeling, visualizing and analyzing of metal formation.
+
+***Open to Remote Workers***
+
+Your Role:
+
+    Work within the full software development life cycle (SDLC)
+    Collaborate with hardware engineers and other engineering staff to evaluate the interface between hardware and software and operational performance requirements of the overall system.
+    Analyze software requirements to determine the feasibility of design within time and cost constraints.
+    Formulate and design software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.
+    Develop flowcharts, layouts, and documentation to identify requirements and solutions
+    Write well-designed, testable code and maintainable code
+    Produce specifications and determine operational feasibility
+    Integrate software components into a fully functional software system
+    Develop and direct software system testing procedures, programming, and documentation.
+    Document and maintain software functionality
+    Troubleshoot, debug, upgrade and optimize existing systems
+    Deploy programs and evaluate user feedback
+    Work in line with project plans and industry standards
+    Ensure software is updated with the latest features
+
+What we're looking for you to bring to the table
+
+    Strong desire to work for an early-stage startup company on disruptive technologies and make it a success.
+    Degree in Computer Science or similar training and/or experience
+    The ability to build and maintain relationships and work collaboratively across the organization.
+    At least 3 years of experience building UI-based tools using MVC, Javascript (AngularJS, React or Vue.js), HTML/CSS.
+    Experience with GPU/WebGL libraries like three.js, babylon.js, cannon.js etc
+    Experience and a passion for building UIs with large 3D data set visualization
+    Preferred: Industry experience with Big Data Technologies (Hadoop/Spark/Elasticsearch).
+    Familiarity with AWS services and technologies (or equivalent: Azure, Google Cloud).
+    Ability to document requirements and specifications
+    Self-driven and independent thinking.
+
+***Open to Remote Workers***

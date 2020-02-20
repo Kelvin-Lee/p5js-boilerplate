@@ -1,0 +1,46 @@
+Frontend Engineer
+San Francisco, CA
+Engineering
+Full-time
+Frontend Engineer
+
+Crunchbase is the leading destination where you can discover innovative companies, connect with the people behind them, and uncover new opportunities. Our mission is to democratize the way innovators connect to opportunities, and over 50 million professionals—including entrepreneurs, investors, market researchers, and sales people—trust Crunchbase to inform their business decisions. Companies all over the world rely on Crunchbase to power their applications, making over one billion API calls on our platform each year.
+
+We are hiring a Frontend Engineer to build flexible, metadata driven user interfaces across the Crunchbase platform. User Interface and User Experience are the key drivers helping us to achieve our vision. We care deeply about creating something that feels right in every detail, and we’re looking for engineers with either a proven design aesthetic or a passion for front-end components to help us go faster. Are you ready to help us build UI Architecture that, much like its platform counterpart, enables rapid iteration, high availability, and a fast & delightful experience?
+
+Frontend Engineering at Crunchbase
+
+The responsibilities of front-end engineers at Crunchbase include:
+• Build a lazy-loaded Angular module to support a new product
+• Write an Express middleware to bootstrap data on the server
+• Work with Product and Design to explore new feature ideas and flows
+• Write a client-side service communicate with backend microservices
+• Use developer tools to understand server and client side performance
+• Collaborate with Backend teams to design an API for a new platform function
+
+Qualifications
+
+• 2 years of professional experience using JavaScript
+• Understanding of computer science fundamentals
+• Write, clean, understandable code
+• Experience with Javascript
+• Experience with unit tests
+• Understanding of web fundamentals (HTTP, HTML, CSS)
+
+What Crunchbase offers
+
+•  Competitive salary and equity
+•  Generous Reimbursement policy for learning and development activities
+•  Daily catered lunches and plenty of snacks
+•  Fitness reimbursement (to work off the catered lunches)
+•  Flexible Paid Time Off (PTO)
+•  Volunteering Paid Time Off
+•  Incredible medical, vision and dental benefits for employees and their families
+•  Free One Medical Group membership for employees and their families
+•  401(k) and Roth plans, and free annual financial adviser check-in
+•  Monthly commuting stipend
+•  Free Lyft rides anywhere in the Bay Area after late nights at the office
+•  Prime location in the Financial District of SF, near BART and Muni stops
+•  A team of creative, transparent entrepreneurs driven to accomplish our mission
+
+Crunchbase does not discriminate on the basis of race, creed, color, ethnicity, national origin, religion, sex, sexual orientation, gender expression, age, height, weight, veteran status, military obligations, or marital status. Every day our team is honored to work with entrepreneurs and innovators from every corner of the globe, and we aim to build a team that reflects the diversity of our customers. Each individual at Crunchbase brings their own perspectives, work experiences, lifestyles, and cultures with them, and we believe that a more diverse team creates more innovative products, provides a better service to its customers, and helps us all grow and learn as individuals.

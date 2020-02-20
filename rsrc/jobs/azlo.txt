@@ -1,0 +1,45 @@
+Front-End Engineer
+at Azlo (View all jobs)
+Portland, Oregon, United States
+
+About Azlo
+
+Azlo is a new fintech company that helps business owners, entrepreneurs, and freelancers pay, get paid, and manage their money. Backed by BBVA, we’re on a mission to transform small business banking.
+
+Azlo is looking to add Engineering depth to the team that builds, delivers, and manages the Azlo customer experience. This includes the online experience itself. Due to the technical nature of many of our financial integrations, experience in retail banking or payments is highly preferred.
+
+What you’ll do
+
+    Work within modern front-end frameworks (Angular, Vue, and React).
+    Perform at a high level in an Agile environment.
+    Work in a functional programming environment.
+    Write and perform unit, integration, end-to-end, and acceptance tests for backend endpoints prior to QA and UAT handoff.
+
+What we’re looking for
+
+    3+ years of Front-End Engineering experience.
+    Open communicators not afraid to express hard truths.
+    Exceptional integrity and able to admit when you’ve made a mistake.
+    Ability to share in work with others.
+    An eagle eye for architectural missteps.
+    A team player - we succeed as a team and we fail as a team. We don’t throw people under the bus.
+    Someone who can move swiftly and is guided by agile, but not beholden to every prescription.
+    An entrepreneurial attitude and the ability to work in a fast-paced, flexible environment on multiple concurrent projects where team members are based in multiple locations.
+
+Technologies we like and use
+
+    Node, docker, kubernetes, Angular or Vue, Immutable.js, Rxjs, git, AWS, MongoDB, Kafka queues
+    Microservice architecture, Pub/Sub, event-driven updates, functional programming.
+
+What we bring
+
+    High impact role in an early-stage fintech company.
+    A killer team with decades of experience in finance, tech, and startups.
+    A mission to empower business owners, and a mandate to do away with the old models of banking.
+    Backing from a leading global bank with resources to support our growth.
+
+Additional details
+
+    The position is based in Portland, Oregon or San Francisco, California.
+    Occasional travel may be needed.
+

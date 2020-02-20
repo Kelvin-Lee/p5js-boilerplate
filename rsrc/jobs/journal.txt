@@ -1,0 +1,60 @@
+Frontend Engineer
+at Journal
+San Francisco, CA
+ 
+Build interfaces that help people to focus and bring new ideas to life
+Journal is a new productivity platform for people and teams. We make it simple for everyone to find, remember, and share information from anywhere. Our vision is to build a "space” that helps people discover and save ideas, collaborate on projects, and avoid distractions. If you’re excited by the opportunity to help people focus and bring new ideas to life, join us at Journal!
+ 
+Journal is backed by Khosla Ventures, Slack Fund, Social Capital, Abstract Ventures, and Product Co-op.
+ 
+Journal’s infrastructure is built on top of AWS and Kubernetes. Our clients include Lumos (Desktop app), Fawkes (Web app), Pensive (Mobile app) and Hedwig (Chrome extension), all built with React and React Native. They communicate with our Java-based backend service Imperio using GraphQL, which in turn uses GRPC to communicate with various backend microservices which front our relational databases and search infrastructure. Backend scheduled tasks to fetch information are scheduled on a Kubernetes cluster and use SQS/Redis to coordinate work. Our primary databases are MySQL (RDS), Elasticsearch and a distributed vector database created in-house to power our state-of-the art conceptual search. 
+ 
+We’re looking for people with a strong background (or interest!) in building interfaces. We’d love to hear from you whether you’re a seasoned frontend developer, or whether you’ve just learned you might like working with frontend. Bonus points if you picked up on our naming scheme!
+ 
+You will be:
+
+    Designing, building and maintaining the frontend clients of Journal
+    Collaborating with backend engineers to spec, write and deploy code that integrates with our GraphQL API endpoints
+    Designing, building and maintaining a realtime, collaborative editors for text and collections of information
+    Brainstorming features with our Product/Design lead and guiding decisions based on your knowledge of the codebase
+    Collaborating with our Product/Design lead to implement mockups of new features
+
+ 
+You’ll do great in this role if you:
+
+    Have an ability to think through customer requirements to come up with high-impact ways of quickly solving their problems
+    Thrive in uncertainty and enjoy creating direction where it’s never existed before
+    Are interested in building UIs with modern tools like React, React Native, Redux, Flow, and Webpack
+    Have a high bar for quality of code and quality of user experience
+    Hold yourself and others to a high bar when working with production
+    Are able to write high quality code in Javascript
+
+ 
+It’s not expected that any single candidate would have expertise across all of these areas. For instance, you might still be a great fit if you are really focused on providing a high-quality user experience but don’t come in with as much React knowledge.
+ 
+You’ll work alongside teammates with complementary skillsets:
+Samiur Rahman (Co-founder, CEO)
+Samiur builds Journal’s conceptual search and machine learning data extraction engine and keeps the company moving in the right direction. Outside the office Samiur is on a quest to make the perfect brisket.
+ 
+Twitter | LinkedIn | GitHub
+ 
+Mark Philpot (Head of Engineering)
+Mark builds Journal’s apps and our GraphQL API. Outside the office Mark perfects his photography skills, shooting portraits of his two adorable kids.
+ 
+Twitter | LinkedIn | GitHub
+  
+Avi Eisenberger (Co-founder, Product)
+Avi runs product and designs everything for Journal. Outside the office Avi is either in the middle of nowhere surfing, skiing, and biking, or he's taking his sweet golden retriever, Benji, for a long walk.
+ 
+Twitter | LinkedIn | GitHub
+ 
+Sam DeBrule (Co-founder, Marketing)
+Sam writes our ‘Machine Learnings’ newsletter and grows Journal’s user base. Outside the office he is face-first in a book or running the tread off his sneakers.
+ 
+Twitter | LinkedIn | Medium
+Why we’re building Journal
+At Journal, our mission is to help people focus and bring new ideas to life. Much of our personal and professional lives run on apps. Yet these tools create boundaries between our activities, require constant checking, and have enabled a culture of interruptions. Journal will give individuals and groups a focused “space” to find, remember, and share all the information they need to have fun and do good work.
+How we work together at Journal
+We value communicating new ideas with first drafts, using diverse perspectives to guide decisions, and trusting each other’s potential to solve big problems.
+ 
+Journal is an equal opportunity employer. We are open to all types of backgrounds and we value a diverse team.
